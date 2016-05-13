@@ -1,0 +1,5601 @@
+run:
+centerX:     70.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     69.0
+centerY:       47.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     87.0
+centerY:       32.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       31.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       31.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     66.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     93.0
+centerY:       32.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     77.0
+centerY:       48.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     60.0
+centerY:       30.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     77.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     59.0
+centerY:       30.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     89.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     105.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     68.0
+centerY:       22.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     57.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     50.0
+centerY:       47.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     65.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     54.0
+centerY:       32.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     71.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     58.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     43.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     65.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     52.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     66.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     65.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       49.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     94.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     65.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     61.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     65.0
+centerY:       31.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     51.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     46.0
+centerY:       47.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     60.0
+centerY:       32.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     77.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     58.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     69.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     61.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     65.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     78.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     59.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     77.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     60.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     58.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       32.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     58.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     68.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       30.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     60.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     78.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     59.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     61.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     78.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     66.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     70.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     71.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     60.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     81.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     69.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     70.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     65.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       48.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     69.0
+centerY:       47.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     59.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     81.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     77.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     68.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     66.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       30.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     60.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     61.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     60.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     65.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     59.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     78.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     69.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     56.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     78.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     69.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     60.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     78.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     59.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     68.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     61.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     59.0
+centerY:       28.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     59.0
+centerY:       28.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     77.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     63.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     56.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     70.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     60.0
+centerY:       33.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     69.0
+centerY:       48.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     77.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     86.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     58.0
+centerY:       31.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     62.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     57.0
+centerY:       31.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     78.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     83.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     66.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     90.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     65.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     82.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     82.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     61.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    63.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    71.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    62.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    82.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    63.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    81.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    47.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    74.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    47.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    64.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    70.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    47.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    86.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    44.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    73.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    32.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    62.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    59.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    55.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    27.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    53.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    26.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    49.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    26.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    51.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    31.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    53.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    26.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    59.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    54.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    52.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    31.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    67.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    52.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    33.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    53.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    68.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    55.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    31.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    78.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    61.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    82.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    57.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    38.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    47.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    71.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    61.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    80.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    74.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    73.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    76.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    58.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    89.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    32.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    76.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    58.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    33.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    58.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    55.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    33.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    38.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    76.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    72.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    73.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    71.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    62.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    74.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    45.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    72.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    82.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    55.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    77.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    58.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    77.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    38.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    99.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    77.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    57.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    91.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    60.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    83.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    55.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    31.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    70.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    58.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    38.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    71.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    63.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    68.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    73.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    57.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    81.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    58.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    84.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    33.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    76.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    76.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    74.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    54.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    59.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    29.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    56.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    92.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    53.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    30.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    58.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    72.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    58.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    57.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    72.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    60.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    72.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    73.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    81.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    57.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    75.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    74.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    83.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    65.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    38.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    95.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    95.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    57.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    58.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    53.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    31.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    73.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    62.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    33.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    64.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    72.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    55.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    33.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    73.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    34.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    71.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    74.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    79.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    83.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    63.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    29.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    60.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    30.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       56.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       50.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       67.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       68.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       59.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       79.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       86.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       66.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       56.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       77.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       67.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    38.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       75.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    47.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       55.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       78.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       81.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       77.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       79.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       59.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       61.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       62.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    37.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       55.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       76.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    44.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       76.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       76.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       76.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       78.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       81.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       76.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       77.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       78.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       79.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       77.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    44.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       75.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       83.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       77.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    38.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       80.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    45.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       81.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    47.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       82.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    45.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       81.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    35.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       78.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       82.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       78.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       81.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    44.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       82.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       79.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    44.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       81.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    44.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       61.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       80.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       77.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    43.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       80.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    42.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       75.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       82.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    41.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       73.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    38.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       85.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    40.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       79.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    36.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       78.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       78.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    45.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        75.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        50.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        77.0
+bottomLeftY        48.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        76.0
+bottomLeftY        47.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        75.0
+bottomLeftY        38.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        75.0
+bottomLeftY        38.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        85.0
+bottomLeftY        44.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        72.0
+bottomLeftY        43.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        75.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        79.0
+bottomLeftY        38.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        41.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        82.0
+bottomLeftY        41.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        79.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        80.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        80.0
+bottomLeftY        42.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        77.0
+bottomLeftY        42.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        75.0
+bottomLeftY        41.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        82.0
+bottomLeftY        46.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        38.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        78.0
+bottomLeftY        44.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        78.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        79.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        79.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        85.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        84.0
+bottomLeftY        42.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        85.0
+bottomLeftY        46.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        79.0
+bottomLeftY        37.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        80.0
+bottomLeftY        42.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        84.0
+bottomLeftY        45.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        83.0
+bottomLeftY        42.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        77.0
+bottomLeftY        43.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        64.0
+bottomLeftY        43.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        84.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        73.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        87.0
+bottomLeftY        35.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        82.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        82.0
+bottomLeftY        46.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        79.0
+bottomLeftY        37.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        61.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        82.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        80.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        82.0
+bottomLeftY        45.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        77.0
+bottomLeftY        41.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        82.0
+bottomLeftY        44.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        79.0
+bottomLeftY        45.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        80.0
+bottomLeftY        44.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        78.0
+bottomLeftY        44.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        82.0
+bottomLeftY        45.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        83.0
+bottomLeftY        44.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        79.0
+bottomLeftY        44.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        77.0
+bottomLeftY        42.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        89.0
+bottomLeftY        45.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        68.0
+bottomLeftY        31.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        84.0
+bottomLeftY        39.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        101.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        67.0
+bottomLeftY        38.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        83.0
+bottomLeftY        43.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        102.0
+bottomLeftY        37.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        87.0
+bottomLeftY        42.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     55.0
+bottomRightY      37.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     79.0
+bottomRightY      43.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     59.0
+bottomRightY      34.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     61.0
+bottomRightY      43.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     81.0
+bottomRightY      42.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     102.0
+bottomRightY      39.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     81.0
+bottomRightY      44.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     68.0
+bottomRightY      39.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     63.0
+bottomRightY      38.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     64.0
+bottomRightY      32.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     61.0
+bottomRightY      38.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     64.0
+bottomRightY      40.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     63.0
+bottomRightY      38.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     93.0
+bottomRightY      39.0 
+centerX:     76.0
+centerY:       39.0
+topRightX       84.0
+topLeftX    69.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    0.0
+topLeftY    39.0
+bottomRightX     65.0
+bottomRightY      38.0 
+pogX   1472pogY   653
+pogX   1088pogY   454
+pogX   1728pogY   682
+pogX   960pogY   483
+pogX   1344pogY   682
+pogX   1088pogY   426
+pogX   64pogY   568
+pogX   1728pogY   653
+pogX   64pogY   540
+pogX   704pogY   454
+pogX   1088pogY   653
+pogX   448pogY   454
+pogX   1472pogY   682
+pogX   192pogY   483
+pogX   1472pogY   653
+pogX   1344pogY   540
+pogX   2240pogY   596
+pogX   1600pogY   483
+pogX   1344pogY   653
+pogX   832pogY   483
+pogX   2368pogY   625
+pogX   1088pogY   454
+pogX   1728pogY   682
+pogX   1088pogY   483
+pogX   1216pogY   625
+pogX   1216pogY   426
+pogX   2880pogY   511
+pogX   1600pogY   454
+pogX   1344pogY   682
+pogX   576pogY   483
+pogX   2880pogY   483
+pogX   1344pogY   426
+pogX   704pogY   596
+pogX   1344pogY   426
+pogX   3136pogY   454
+pogX   1088pogY   483
+pogX   3392pogY   454
+pogX   960pogY   511
+pogX   320pogY   511
+pogX   960pogY   454
+pogX   960pogY   426
+pogX   576pogY   454
+pogX   1344pogY   483
+pogX   2368pogY   596
+pogX   1216pogY   454
+pogX   1984pogY   596
+pogX   1088pogY   483
+pogX   2240pogY   568
+pogX   1856pogY   369
+pogX   2880pogY   625
+pogX   64pogY   397
+pogX   1984pogY   483
+pogX   2880pogY   568
+pogX   1472pogY   426
+pogX   1088pogY   568
+pogX   1472pogY   397
+pogX   2496pogY   483
+pogX   832pogY   341
+pogX   3008pogY   653
+pogX   192pogY   369
+pogX   1856pogY   483
+pogX   1344pogY   426
+pogX   3008pogY   568
+pogX   1344pogY   426
+pogX   2112pogY   540
+pogX   704pogY   426
+pogX   1472pogY   454
+pogX   2240pogY   540
+pogX   832pogY   341
+pogX   1088pogY   511
+pogX   64pogY   397
+pogX   2368pogY   511
+pogX   832pogY   454
+pogX   2368pogY   511
+pogX   1344pogY   454
+pogX   832pogY   483
+pogX   1728pogY   483
+pogX   1088pogY   426
+pogX   1600pogY   625
+pogX   704pogY   397
+pogX   2368pogY   540
+pogX   448pogY   369
+pogX   1216pogY   483
+pogX   448pogY   369
+pogX   1472pogY   483
+pogX   960pogY   369
+pogX   2368pogY   596
+pogX   1344pogY   483
+pogX   1472pogY   483
+pogX   1472pogY   454
+pogX   448pogY   568
+pogX   448pogY   540
+pogX   1472pogY   511
+pogX   1984pogY   369
+pogX   1216pogY   540
+pogX   1088pogY   426
+pogX   576pogY   540
+pogX   960pogY   454
+pogX   1472pogY   568
+pogX   1856pogY   596
+pogX   960pogY   511
+pogX   2368pogY   596
+pogX   832pogY   483
+pogX   1216pogY   596
+pogX   64pogY   682
+pogX   832pogY   568
+pogX   1344pogY   511
+pogX   704pogY   540
+pogX   704pogY   511
+pogX   576pogY   511
+pogX   1472pogY   540
+pogX   64pogY   568
+pogX   576pogY   596
+pogX   1472pogY   483
+pogX   2624pogY   653
+pogX   704pogY   397
+pogX   2496pogY   653
+pogX   1728pogY   426
+pogX   1856pogY   653
+pogX   64pogY   568
+pogX   448pogY   540
+pogX   1472pogY   454
+pogX   1088pogY   568
+pogX   2624pogY   369
+pogX   192pogY   511
+pogX   1728pogY   341
+pogX   704pogY   540
+pogX   832pogY   540
+pogX   832pogY   625
+pogX   1216pogY   483
+pogX   1344pogY   540
+pogX   1216pogY   454
+pogX   576pogY   511
+pogX   64pogY   540
+pogX   1984pogY   596
+pogX   1984pogY   426
+pogX   1088pogY   596
+pogX   832pogY   483
+pogX   960pogY   540
+pogX   1472pogY   426
+pogX   1216pogY   568
+pogX   1344pogY   511
+pogX   1088pogY   596
+pogX   1216pogY   454
+pogX   1472pogY   568
+pogX   576pogY   369
+pogX   2624pogY   625
+pogX   3264pogY   397
+pogX   1984pogY   568
+pogX   1088pogY   483
+pogX   2880pogY   625
+pogX   576pogY   369
+pogX   1472pogY   483
+pogX   576pogY   397
+pogX   2368pogY   596
+pogX   832pogY   397
+pogX   1984pogY   540
+pogX   1088pogY   397
+pogX   2240pogY   511
+pogX   832pogY   369
+pogX   1984pogY   511
+pogX   1984pogY   511
+pogX   192pogY   369
+pogX   1344pogY   397
+pogX   1728pogY   426
+pogX   704pogY   397
+pogX   2752pogY   625
+pogX   320pogY   369
+pogX   576pogY   369
+pogX   1216pogY   454
+pogX   576pogY   454
+pogX   704pogY   369
+pogX   1344pogY   483
+pogX   960pogY   426
+pogX   1600pogY   540
+pogX   960pogY   426
+pogX   1344pogY   483
+pogX   1088pogY   454
+pogX   3520pogY   454
+pogX   1088pogY   454
+pogX   4416pogY   454
+pogX   3520pogY   454
+pogX   1600pogY   397
+pogX   3520pogY   426
+pogX   1728pogY   511
+pogX   3392pogY   454
+pogX   960pogY   454
+pogX   1600pogY   596
+pogX   1600pogY   369
+pogX   1600pogY   596
+pogX   448pogY   483
+pogX   4288pogY   511
+pogX   576pogY   483
+pogX   704pogY   625
+pogX   1344pogY   483
+pogX   3264pogY   454
+pogX   832pogY   454
+pogX   3392pogY   397
+pogX   1856pogY   369
+pogX   576pogY   625
+pogX   1344pogY   483
+pogX   3648pogY   426
+pogX   1216pogY   511
+pogX   1984pogY   596
+pogX   1344pogY   341
+pogX   1728pogY   596
+pogX   960pogY   454
+pogX   1344pogY   682
+pogX   1216pogY   483
+pogX   4160pogY   454
+pogX   1728pogY   397
+pogX   3392pogY   426
+pogX   1344pogY   483
+pogX   1856pogY   568
+pogX   1600pogY   454
+pogX   3392pogY   454
+pogX   704pogY   483
+pogX   3776pogY   454
+pogX   1088pogY   483
+pogX   704pogY   625
+pogX   1472pogY   426
+pogX   3648pogY   426
+pogX   576pogY   483
+pogX   3264pogY   397
+pogX   1344pogY   426
+pogX   3008pogY   369
+pogX   2112pogY   369
+pogX   2752pogY   397
+pogX   1728pogY   397
+pogX   1216pogY   511
+pogX   960pogY   397
+pogX   1728pogY   625
+pogX   1472pogY   454
+pogX   704pogY   625
+pogX   1600pogY   454
+pogX   3648pogY   568
+pogX   576pogY   483
+pogX   1728pogY   568
+pogX   1728pogY   369
+pogX   1088pogY   710
+pogX   1600pogY   454
+pogX   192pogY   568
+pogX   192pogY   568
+pogX   576pogY   511
+pogX   1088pogY   625
+pogX   1088pogY   511
+pogX   3776pogY   483
+pogX   448pogY   483
+pogX   1600pogY   682
+pogX   1984pogY   426
+pogX   1344pogY   426
+pogX   1728pogY   625
+pogX   1216pogY   426
+pogX   1216pogY   625
+pogX   960pogY   454
+pogX   320pogY   483
+pogX   192pogY   540
+pogX   1088pogY   511
+pogX   1344pogY   397
+pogX   960pogY   483
+pogX   832pogY   596
+pogX   832pogY   625
+pogX   1344pogY   397
+pogX   704pogY   511
+pogX   320pogY   682
+pogX   960pogY   795
+pogX   576pogY   596
+pogX   704pogY   511
+pogX   1984pogY   511
+pogX   1600pogY   653
+pogX   1600pogY   625
+pogX   448pogY   426
+pogX   448pogY   596
+pogX   1472pogY   454
+pogX   448pogY   625
+pogX   448pogY   426
+pogX   448pogY   511
+pogX   192pogY   568
+pogX   1216pogY   625
+pogX   3520pogY   312
+pogX   1600pogY   596
+pogX   576pogY   568
+pogX   576pogY   568
+pogX   960pogY   454
+pogX   832pogY   568
+pogX   704pogY   483
+pogX   1216pogY   540
+pogX   832pogY   454
+pogX   1472pogY   596
+pogX   832pogY   540
+pogX   1344pogY   511
+pogX   960pogY   511
+pogX   320pogY   568
+pogX   1216pogY   511
+pogX   320pogY   568
+pogX   960pogY   511
+pogX   1216pogY   653
+pogX   64pogY   568
+pogX   832pogY   540
+pogX   1472pogY   568
+pogX   960pogY   397
+pogX   1216pogY   369
+pogX   4032pogY   454
+pogX   1472pogY   397
+pogX   1472pogY   540
+pogX   1216pogY   454
+pogX   1600pogY   596
+pogX   832pogY   454
+pogX   1984pogY   397
+pogX   1600pogY   369
+pogX   1728pogY   568
+pogX   832pogY   511
+pogX   3136pogY   426
+pogX   576pogY   483
+pogX   3776pogY   483
+pogX   3392pogY   397
+pogX   1216pogY   454
+pogX   1472pogY   596
+pogX   704pogY   483
+pogX   576pogY   483
+pogX   3904pogY   454
+pogX   960pogY   426
+pogX   3392pogY   454
+pogX   576pogY   511
+pogX   3776pogY   454
+pogX   704pogY   511
+pogX   4032pogY   483
+pogX   704pogY   426
+pogX   1600pogY   397
+pogX   704pogY   454
+pogX   1088pogY   568
+pogX   192pogY   795
+pogX   1856pogY   568
+pogX   1472pogY   369
+pogX   1472pogY   625
+pogX   1216pogY   454
+pogX   1344pogY   682
+pogX   960pogY   454
+pogX   1472pogY   397
+pogX   1728pogY   511
+pogX   3520pogY   426
+pogX   1088pogY   284
+pogX   832pogY   653
+pogX   2624pogY   483
+pogX   1472pogY   454
+pogX   3904pogY   483
+pogX   2880pogY   483
+pogX   3008pogY   625
+pogX   3136pogY   369
+pogX   2368pogY   596
+pogX   1344pogY   397
+pogX   960pogY   511
+pogX   1600pogY   454
+pogX   1088pogY   511
+pogX   1600pogY   483
+pogX   2112pogY   540
+pogX   1728pogY   397
+pogX   3648pogY   454
+pogX   1600pogY   454
+pogX   1216pogY   397
+pogX   3648pogY   483
+pogX   832pogY   454
+pogX   1088pogY   568
+pogX   1216pogY   397
+pogX   1600pogY   625
+pogX   704pogY   454
+pogX   1344pogY   568
+pogX   1088pogY   426
+pogX   3520pogY   454
+pogX   3648pogY   483
+pogX   832pogY   454
+pogX   4288pogY   483
+pogX   1216pogY   397
+pogX   3648pogY   454
+pogX   832pogY   454
+pogX   1728pogY   596
+pogX   1088pogY   426
+pogX   448pogY   540
+pogX   1984pogY   454
+pogX   1344pogY   625
+pogX   960pogY   511
+pogX   1216pogY   596
+pogX   832pogY   483
+pogX   1856pogY   596
+pogX   704pogY   454
+pogX   1600pogY   596
+pogX   576pogY   454
+pogX   2752pogY   738
+pogX   448pogY   454
+pogX   1600pogY   540
+pogX   320pogY   568
+pogX   960pogY   795
+pogX   1600pogY   653
+pogX   2240pogY   312
+pogX   1344pogY   568
+pogX   576pogY   483
+pogX   320pogY   454
+pogX   576pogY   625
+pogX   1344pogY   397
+pogX   320pogY   710
+pogX   192pogY   540
+pogX   1088pogY   653
+pogX   1600pogY   426
+pogX   1600pogY   653
+pogX   1088pogY   454
+pogX   448pogY   682
+pogX   576pogY   511
+pogX   576pogY   511
+pogX   832pogY   653
+pogX   704pogY   511
+pogX   1472pogY   625
+pogX   2112pogY   454
+pogX   1984pogY   625
+pogX   1984pogY   568
+pogX   1088pogY   511
+pogX   576pogY   540
+pogX   1088pogY   511
+pogX   960pogY   511
+pogX   960pogY   483
+pogX   960pogY   454
+pogX   960pogY   454
+pogX   704pogY   483
+pogX   1600pogY   568
+pogX   832pogY   454
+pogX   4288pogY   426
+pogX   1088pogY   426
+pogX   832pogY   511
+pogX   576pogY   511
+pogX   448pogY   568
+pogX   1472pogY   483
+pogX   576pogY   397
+pogX   3008pogY   596
+pogX   1472pogY   454
+pogX   2624pogY   653
+pogX   1728pogY   511
+pogX   2368pogY   511
+pogX   448pogY   738
+pogX   3264pogY   426
+pogX   64pogY   738
+pogX   1216pogY   397
+pogX   704pogY   568
+pogX   2880pogY   397
+pogX   2368pogY   568
+pogX   2496pogY   511
+pogX   960pogY   568
+pogX   1216pogY   540
+pogX   2624pogY   653
+pogX   832pogY   369
+pogX   1728pogY   596
+pogX   832pogY   483
+pogX   64pogY   454
+pogX   1856pogY   653
+pogX   1984pogY   284
+pogX   832pogY   540
+pogX   832pogY   483
+pogX   1856pogY   710
+pogX   832pogY   625
+pogX   192pogY   312
+pogX   448pogY   511
+pogX   1728pogY   568
+pogX   1216pogY   682
+pogX   448pogY   596
+pogX   832pogY   511
+pogX   960pogY   540
+pogX   1216pogY   568
+pogX   64pogY   625
+pogX   1856pogY   511
+pogX   192pogY   653
+pogX   1472pogY   511
+pogX   1600pogY   397
+pogX   576pogY   540
+pogX   1600pogY   454
+pogX   1216pogY   568
+pogX   576pogY   511
+pogX   1600pogY   596
+pogX   832pogY   483
+pogX   1984pogY   369
+pogX   1088pogY   625
+pogX   192pogY   511
+pogX   3392pogY   483
+pogX   1088pogY   483
+pogX   1600pogY   596
+pogX   320pogY   511
+pogX   1088pogY   653
+pogX   448pogY   540
+pogX   832pogY   625
+pogX   1728pogY   454
+pogX   960pogY   653
+pogX   1344pogY   426
+pogX   704pogY   426
+pogX   448pogY   511
+pogX   1344pogY   625
+pogX   1088pogY   369
+pogX   1472pogY   483
+pogX   960pogY   511
+pogX   1728pogY   682
+pogX   192pogY   540
+pogX   704pogY   483
+pogX   1472pogY   540
+pogX   960pogY   625
+pogX   704pogY   625
+pogX   1600pogY   653
+pogX   576pogY   540
+pogX   1088pogY   511
+pogX   1088pogY   483
+pogX   832pogY   596
+pogX   1216pogY   511
+pogX   1216pogY   568
+pogX   448pogY   511
+pogX   832pogY   511
+pogX   704pogY   483
+pogX   1344pogY   568
+pogX   1728pogY   483
+pogX   1472pogY   483
+pogX   704pogY   568
+pogX   1344pogY   483
+pogX   1216pogY   483
+pogX   192pogY   454
+pogX   1344pogY   426
+pogX   1088pogY   483
+pogX   2496pogY   540
+pogX   1344pogY   426
+pogX   320pogY   312
+pogX   1856pogY   483
+pogX   2112pogY   540
+pogX   2496pogY   369
+pogX   2240pogY   540
+pogX   192pogY   284
+pogX   1728pogY   540
+pogX   1856pogY   369
+pogX   1600pogY   369
+pogX   1856pogY   540
+pogX   1472pogY   454
+pogX   2240pogY   568
+pogX   3136pogY   426
+pogX   2240pogY   568
+pogX   1600pogY   454
+pogX   1344pogY   454
+pogX   320pogY   397
+pogX   2368pogY   596
+pogX   1088pogY   568
+pogX   2880pogY   568
+pogX   1600pogY   483
+pogX   1856pogY   511
+pogX   576pogY   426
+pogX   704pogY   426
+pogX   192pogY   483
+pogX   2368pogY   284
+pogX   1088pogY   397
+pogX   576pogY   426
+pogX   576pogY   426
+pogX   832pogY   397
+pogX   3392pogY   625
+pogX   704pogY   454
+pogX   1728pogY   454
+pogX   704pogY   426
+pogX   1216pogY   540
+pogX   704pogY   511
+pogX   4416pogY   540
+pogX   704pogY   511
+pogX   960pogY   596
+pogX   576pogY   454
+pogX   1088pogY   653
+pogX   320pogY   511
+pogX   1472pogY   625
+pogX   704pogY   483
+pogX   576pogY   312
+pogX   1856pogY   682
+pogX   2368pogY   682
+pogX   1216pogY   511
+pogX   1600pogY   568
+pogX   576pogY   596
+pogX   704pogY   596
+pogX   1856pogY   653
+pogX   1216pogY   511
+pogX   448pogY   568
+pogX   448pogY   511
+pogX   1216pogY   653
+pogX   1344pogY   596
+pogX   448pogY   540
+pogX   448pogY   653
+pogX   832pogY   454
+pogX   64pogY   596
+pogX   960pogY   454
+pogX   1600pogY   653
+pogX   192pogY   511
+pogX   1600pogY   625
+pogX   576pogY   483
+pogX   1984pogY   596
+pogX   576pogY   483
+pogX   1216pogY   625
+pogX   1344pogY   426
+pogX   960pogY   682
+pogX   1600pogY   596
+pogX   576pogY   511
+pogX   1216pogY   653
+pogX   1088pogY   454
+pogX   3904pogY   454
+pogX   1472pogY   397
+pogX   1216pogY   625
+pogX   832pogY   426
+pogX   3008pogY   397
+pogX   1344pogY   483
+pogX   1600pogY   653
+pogX   1088pogY   625
+pogX   960pogY   511
+pogX   1472pogY   483
+pogX   832pogY   426
+pogX   1088pogY   568
+pogX   704pogY   426
+pogX   1600pogY   625
+pogX   960pogY   454
+pogX   960pogY   596
+pogX   832pogY   454
+pogX   3776pogY   511
+pogX   832pogY   454
+pogX   3392pogY   483
+pogX   320pogY   540
+pogX   1216pogY   596
+pogX   1472pogY   397
+pogX   3136pogY   397
+pogX   832pogY   454
+pogX   3136pogY   454
+pogX   1728pogY   625
+pogX   1856pogY   369
+pogX   320pogY   540
+pogX   960pogY   483
+pogX   832pogY   596
+pogX   832pogY   483
+pogX   3776pogY   454
+pogX   192pogY   540
+pogX   3648pogY   454
+pogX   832pogY   483
+pogX   3264pogY   454
+pogX   1728pogY   426
+pogX   3392pogY   454
+pogX   1088pogY   426
+pogX   2496pogY   682
+pogX   704pogY   511
+pogX   1216pogY   596
+pogX   1472pogY   397
+pogX   448pogY   511
+pogX   1344pogY   511
+pogX   1728pogY   625
+pogX   1728pogY   454
+pogX   1216pogY   596
+pogX   1216pogY   454
+pogX   1856pogY   682
+pogX   960pogY   483
+pogX   1088pogY   454
+pogX   1088pogY   511
+pogX   1472pogY   454
+pogX   320pogY   540
+pogX   1088pogY   511
+pogX   3392pogY   397
+pogX   576pogY   454
+pogX   1856pogY   596
+pogX   1088pogY   397
+pogX   2880pogY   369
+pogX   960pogY   454
+pogX   1600pogY   596
+pogX   832pogY   426
+pogX   3520pogY   426
+pogX   1216pogY   483
+pogX   2112pogY   596
+pogX   1728pogY   454
+pogX   832pogY   483
+pogX   704pogY   568
+pogX   448pogY   483
+pogX   2368pogY   568
+pogX   960pogY   426
+pogX   704pogY   454
+pogX   704pogY   454
+pogX   2496pogY   596
+pogX   1600pogY   454
+pogX   3776pogY   682
+pogX   832pogY   625
+pogX   1856pogY   483
+pogX   1600pogY   454
+pogX   2240pogY   454
+pogX   2368pogY   369
+pogX   2752pogY   568
+pogX   2752pogY   511
+pogX   1472pogY   341
+pogX   1216pogY   511
+pogX   2752pogY   454
+pogX   1856pogY   568
+pogX   1856pogY   397
+pogX   1088pogY   511
+pogX   960pogY   369
+pogX   1088pogY   426
+pogX   2240pogY   454
+pogX   960pogY   483
+pogX   1728pogY   483
+pogX   1984pogY   540
+pogX   1344pogY   426
+pogX   1088pogY   511
+pogX   1344pogY   540
+pogX   1984pogY   454
+pogX   1216pogY   483
+pogX   576pogY   483
+pogX   1472pogY   483
+pogX   2240pogY   568
+pogX   1216pogY   483
+pogX   2752pogY   568
+pogX   1600pogY   625
+pogX   704pogY   596
+pogX   960pogY   483
+pogX   960pogY   483
+pogX   1856pogY   625
+pogX   1344pogY   454
+pogX   1088pogY   483
+pogX   192pogY   426
+pogX   1344pogY   454
+pogX   448pogY   454
+pogX   448pogY   540
+pogX   832pogY   454
+pogX   1472pogY   483
+pogX   1216pogY   540
+pogX   576pogY   454
+pogX   1728pogY   483
+pogX   1216pogY   454
+pogX   1344pogY   540
+pogX   832pogY   511
+pogX   1344pogY   540
+pogX   576pogY   540
+pogX   1728pogY   568
+pogX   1344pogY   568
+pogX   1472pogY   511
+pogX   704pogY   540
+pogX   1216pogY   397
+pogX   832pogY   483
+pogX   576pogY   483
+pogX   1344pogY   568
+pogX   1088pogY   540
+pogX   832pogY   540
+pogX   832pogY   540
+pogX   1472pogY   397
+pogX   704pogY   540
+pogX   576pogY   540
+pogX   320pogY   568
+pogX   320pogY   568
+pogX   64pogY   511
+pogX   1088pogY   454
+pogX   1856pogY   540
+pogX   1472pogY   511
+pogX   576pogY   511
+pogX   1984pogY   454
+pogX   1216pogY   511
+pogX   1088pogY   426
+pogX   960pogY   454
+pogX   960pogY   540
+pogX   960pogY   483
+pogX   1344pogY   483
+pogX   448pogY   511
+pogX   960pogY   540
+pogX   576pogY   483
+pogX   960pogY   540
+pogX   448pogY   540
+pogX   1600pogY   483
+pogX   1728pogY   540
+pogX   1088pogY   483
+pogX   1216pogY   540
+pogX   1088pogY   511
+pogX   1088pogY   511
+pogX   960pogY   540
+pogX   1344pogY   454
+pogX   704pogY   483
+pogX   1088pogY   483
+pogX   576pogY   540
+pogX   960pogY   454
+pogX   1472pogY   511
+pogX   832pogY   454
+pogX   704pogY   568
+pogX   832pogY   540
+pogX   1472pogY   511
+pogX   1216pogY   426
+pogX   448pogY   511
+pogX   576pogY   511
+pogX   1344pogY   426
+pogX   832pogY   511
+pogX   960pogY   511
+pogX   704pogY   454
+pogX   960pogY   540
+pogX   320pogY   483
+pogX   1344pogY   454
+pogX   832pogY   540
+pogX   960pogY   483
+pogX   1088pogY   568
+pogX   960pogY   511
+pogX   960pogY   540
+pogX   960pogY   454
+pogX   576pogY   540
+pogX   2496pogY   540
+pogX   320pogY   483
+pogX   1344pogY   596
+pogX   1472pogY   454
+pogX   2240pogY   369
+pogX   704pogY   568
+pogX   1088pogY   511
+pogX   1216pogY   511
+pogX   1344pogY   454
+pogX   192pogY   454
+pogX   1600pogY   596
+pogX   1600pogY   483
+pogX   1728pogY   454
+pogX   1984pogY   540
+pogX   1088pogY   511
+pogX   1088pogY   483
+pogX   1216pogY   511
+pogX   320pogY   454
+pogX   1216pogY   511
+pogX   1216pogY   511
+pogX   704pogY   540
+pogX   1344pogY   511
+pogX   1856pogY   596
+pogX   576pogY   483
+pogX   1216pogY   483
+pogX   1728pogY   568
+pogX   1216pogY   511
+pogX   1216pogY   426
+pogX   960pogY   483
+pogX   960pogY   483
+pogX   1216pogY   596
+pogX   832pogY   397
+pogX   1600pogY   625
+pogX   832pogY   426
+pogX   960pogY   511
+pogX   960pogY   454
+pogX   1728pogY   568
+pogX   1216pogY   568
+pogX   576pogY   511
+pogX   1088pogY   540
+pogX   1216pogY   454
+pogX   64pogY   511
+pogX   960pogY   511
+pogX   1088pogY   426
+pogX   960pogY   625
+pogX   1216pogY   511
+pogX   960pogY   540
+pogX   448pogY   454
+pogX   192pogY   540
+pogX   1856pogY   341
+pogX   1472pogY   596
+pogX   448pogY   568
+pogX   1088pogY   540
+pogX   1088pogY   540
+pogX   1088pogY   454
+pogX   2112pogY   369
+pogX   320pogY   511
+pogX   960pogY   511
+pogX   1088pogY   540
+pogX   1088pogY   540
+pogX   704pogY   454
+pogX   1216pogY   483
+pogX   1344pogY   540
+pogX   1984pogY   397
+pogX   1216pogY   568
+pogX   1216pogY   483
+pogX   576pogY   511
+pogX   1088pogY   426
+pogX   320pogY   511
+pogX   1088pogY   483
+pogX   192pogY   568
+pogX   1472pogY   454
+pogX   64pogY   511
+pogX   1472pogY   511
+pogX   192pogY   596
+pogX   320pogY   483
+pogX   1728pogY   568
+pogX   1728pogY   540
+pogX   704pogY   397
+pogX   576pogY   454
+pogX   64pogY   596
+pogX   192pogY   596
+pogX   704pogY   511
+pogX   1344pogY   568
+pogX   192pogY   454
+pogX   704pogY   540
+pogX   320pogY   568
+pogX   1856pogY   454
+pogX   960pogY   568
+pogX   1344pogY   511
+pogX   1088pogY   540
+pogX   1984pogY   369
+pogX   1856pogY   511
+pogX   64pogY   341
+pogX   832pogY   568
+pogX   1216pogY   454
+pogX   576pogY   511
+pogX   832pogY   454
+pogX   832pogY   540
+pogX   1344pogY   454
+pogX   1088pogY   511
+pogX   1472pogY   483
+pogX   704pogY   540
+pogX   192pogY   426
+pogX   832pogY   596
+pogX   1600pogY   483
+pogX   1472pogY   596
+pogX   832pogY   454
+pogX   1088pogY   483
+pogX   320pogY   341
+pogX   64pogY   511
+pogX   1472pogY   483
+pogX   1472pogY   540
+pogX   1088pogY   511
+pogX   704pogY   511
+pogX   1344pogY   511
+pogX   960pogY   540
+pogX   1728pogY   454
+pogX   960pogY   540
+pogX   704pogY   426
+pogX   448pogY   540
+pogX   1088pogY   511
+pogX   1600pogY   511
+pogX   1600pogY   454
+pogX   2752pogY   540
+pogX   1856pogY   596
+pogX   1216pogY   483
+pogX   1344pogY   511
+pogX   64pogY   596
+pogX   832pogY   511
+pogX   1728pogY   625
+pogX   1216pogY   511
+pogX   192pogY   596
+pogX   1088pogY   540
+pogX   576pogY   540
+pogX   1856pogY   397
+pogX   320pogY   540
+pogX   576pogY   511
+pogX   832pogY   568
+pogX   2368pogY   625
+pogX   1472pogY   483
+pogX   64pogY   483
+pogX   832pogY   511
+pogX   704pogY   483
+pogX   960pogY   454
+pogX   192pogY   596
+pogX   832pogY   483
+pogX   64pogY   511
+pogX   704pogY   483
+pogX   832pogY   596
+pogX   576pogY   625
+pogX   192pogY   568
+pogX   832pogY   596
+pogX   960pogY   653
+pogX   1600pogY   625
+pogX   1088pogY   540
+pogX   3520pogY   454
+pogX   832pogY   426
+pogX   2240pogY   568
+pogX   576pogY   454
+pogX   1984pogY   710
+pogX   1728pogY   483
+pogX   1344pogY   653
+pogX   1472pogY   596
+pogX   1344pogY   909
+pogX   448pogY   426
+pogX   192pogY   511
+pogX   1472pogY   653
+pogX   1472pogY   625
+pogX   448pogY   568
+pogX   2112pogY   540
+pogX   960pogY   454
+pogX   1856pogY   682
+pogX   1216pogY   426
+pogX   3904pogY   483
+pogX   192pogY   454
+pogX   2368pogY   369
+pogX   1600pogY   312
+pogX   1088pogY   454
+pogX   4288pogY   511
+pogX   832pogY   454
+pogX   3136pogY   454
+pogX   832pogY   426
+pogX   3776pogY   454
+pogX   1088pogY   454
+pogX   1088pogY   596
+pogX   576pogY   511
+pogX   3264pogY   483
+pogX   1216pogY   426
+pogX   3008pogY   454
+pogX   448pogY   511
+pogX   3136pogY   454
+pogX   1088pogY   397
+pogX   3520pogY   454
+pogX   1216pogY   454
+pogX   3904pogY   454
+pogX   1472pogY   454
+pogX   3520pogY   454
+pogX   1088pogY   454
+pogX   4160pogY   540
+pogX   1856pogY   483
+pogX   64pogY   568
+pogX   832pogY   568
+pogX   960pogY   596
+pogX   320pogY   426
+pogX   64pogY   568
+pogX   320pogY   397
+pogX   64pogY   596
+pogX   1216pogY   511
+pogX   64pogY   483
+pogX   1472pogY   511
+pogX   448pogY   483
+pogX   704pogY   483
+pogX   1344pogY   710
+pogX   832pogY   483
+pogX   1856pogY   568
+pogX   704pogY   426
+pogX   1728pogY   483
+pogX   1088pogY   426
+pogX   1344pogY   341
+pogX   3904pogY   454
+pogX   960pogY   397
+pogX   64pogY   540
+pogX   1216pogY   369
+pogX   448pogY   540
+pogX   960pogY   341
+pogX   64pogY   540
+pogX   1216pogY   397
+pogX   64pogY   568
+pogX   1472pogY   341
+pogX   192pogY   568
+pogX   192pogY   568
+pogX   576pogY   454
+pogX   1728pogY   483
+pogX   448pogY   426
+pogX   448pogY   625
+pogX   1344pogY   369
+pogX   64pogY   483
+pogX   960pogY   341
+pogX   320pogY   511
+pogX   1344pogY   312
+pogX   448pogY   511
+pogX   1088pogY   312
+pogX   192pogY   540
+pogX   1472pogY   341
+pogX   320pogY   540
+pogX   832pogY   369
+pogX   192pogY   483
+pogX   1216pogY   312
+pogX   576pogY   511
+pogX   1216pogY   284
+pogX   1344pogY   369
+pogX   1344pogY   369
+pogX   64pogY   426
+pogX   832pogY   227
+pogX   1984pogY   284
+pogX   448pogY   454
+pogX   1600pogY   284
+pogX   64pogY   596
+pogX   832pogY   284
+pogX   2368pogY   255
+pogX   1600pogY   312
+pogX   448pogY   483
+pogX   704pogY   284
+pogX   1856pogY   255
+pogX   448pogY   397
+pogX   1472pogY   284
+pogX   832pogY   312
+pogX   1728pogY   341
+pogX   960pogY   397
+pogX   1856pogY   284
+pogX   960pogY   341
+pogX   1472pogY   312
+pogX   960pogY   312
+pogX   320pogY   483
+pogX   704pogY   341
+pogX   1600pogY   284
+pogX   576pogY   312
+pogX   1984pogY   312
+pogX   320pogY   312
+pogX   960pogY   540
+pogX   832pogY   341
+pogX   1728pogY   255
+pogX   704pogY   767
+pogX   832pogY   426
+pogX   832pogY   284
+pogX   2112pogY   341
+pogX   1088pogY   312
+pogX   2112pogY   284
+pogX   64pogY   369
+pogX   1728pogY   284
+pogX   576pogY   284
+pogX   1216pogY   682
+pogX   576pogY   312
+pogX   832pogY   397
+pogX   64pogY   312
+pogX   1088pogY   369
+pogX   1216pogY   312
+pogX   1600pogY   312
+pogX   448pogY   312
+pogX   960pogY   397
+pogX   960pogY   341
+pogX   960pogY   397
+pogX   192pogY   369
+pogX   3264pogY   369
+pogX   832pogY   312
+BUILD STOPPED (total time: 1 minute 4 seconds)

@@ -1,0 +1,6 @@
+finalapp.MainFrameDetection$1
+finalapp.MainFrameDetection$3
+finalapp.MainFrameDetection$2
+finalapp.MainFrameDetection$3$1
+finalapp.MainFrameDetection
+finalapp.MainFrameDetection$DaemonThread

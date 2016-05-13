@@ -1,0 +1,6087 @@
+run:
+centerX:     75.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     91.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     64.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     95.0
+centerY:       51.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     81.0
+centerY:       51.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     94.0
+centerY:       58.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     86.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     92.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       56.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     89.0
+centerY:       53.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     84.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     84.0
+centerY:       56.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     85.0
+centerY:       51.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     68.0
+centerY:       51.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     88.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       49.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     87.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     81.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     86.0
+centerY:       52.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     81.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     83.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     88.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     91.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     89.0
+centerY:       54.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     81.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       47.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     84.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     85.0
+centerY:       36.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       47.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     93.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     93.0
+centerY:       48.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       47.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     96.0
+centerY:       50.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     83.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     92.0
+centerY:       51.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     96.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     81.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     77.0
+centerY:       48.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     94.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       48.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     85.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     89.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     84.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     78.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     89.0
+centerY:       48.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     79.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     88.0
+centerY:       52.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     77.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     92.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       47.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     94.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     91.0
+centerY:       59.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     97.0
+centerY:       52.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     96.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     89.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     92.0
+centerY:       49.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       52.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       48.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     91.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     84.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     93.0
+centerY:       51.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     86.0
+centerY:       58.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     70.0
+centerY:       50.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     83.0
+centerY:       40.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     78.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     84.0
+centerY:       38.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     87.0
+centerY:       35.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     82.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       52.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     90.0
+centerY:       54.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     69.0
+centerY:       47.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     99.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     75.0
+centerY:       50.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     92.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     93.0
+centerY:       53.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     84.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     76.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     85.0
+centerY:       51.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     85.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     86.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     89.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     71.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     86.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       43.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     90.0
+centerY:       53.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     74.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       46.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     68.0
+centerY:       42.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     84.0
+centerY:       44.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     82.0
+centerY:       34.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     83.0
+centerY:       41.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     72.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     83.0
+centerY:       51.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     68.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     80.0
+centerY:       48.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     98.0
+centerY:       50.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     73.0
+centerY:       39.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     96.0
+centerY:       55.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     70.0
+centerY:       37.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     91.0
+centerY:       53.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    0.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    0.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    79.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    44.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    93.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    99.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    103.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    53.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    76.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    46.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       0.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    0.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       99.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    48.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       84.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    49.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       85.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    48.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       72.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    49.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       73.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    48.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       75.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    43.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       66.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    46.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       76.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    44.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       91.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    44.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       91.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    45.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       84.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    45.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       91.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    35.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       78.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    48.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       90.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    46.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       77.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       90.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    46.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       87.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    48.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       78.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    46.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       91.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    55.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       87.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       75.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    45.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       87.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    45.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       91.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    39.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       85.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       92.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    46.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       82.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       73.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    43.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       78.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    42.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        0.0
+bottomLeftY        0.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        82.0
+bottomLeftY        44.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        85.0
+bottomLeftY        48.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        88.0
+bottomLeftY        44.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        74.0
+bottomLeftY        43.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        97.0
+bottomLeftY        52.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        74.0
+bottomLeftY        44.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        86.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        93.0
+bottomLeftY        48.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        71.0
+bottomLeftY        43.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        93.0
+bottomLeftY        52.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        45.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        96.0
+bottomLeftY        47.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        80.0
+bottomLeftY        37.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        89.0
+bottomLeftY        46.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        95.0
+bottomLeftY        47.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        84.0
+bottomLeftY        41.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        98.0
+bottomLeftY        55.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        91.0
+bottomLeftY        45.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        68.0
+bottomLeftY        41.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        100.0
+bottomLeftY        48.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        72.0
+bottomLeftY        45.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        95.0
+bottomLeftY        46.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        75.0
+bottomLeftY        43.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        94.0
+bottomLeftY        58.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        81.0
+bottomLeftY        39.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        81.0
+bottomLeftY        51.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        98.0
+bottomLeftY        50.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        86.0
+bottomLeftY        46.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        106.0
+bottomLeftY        50.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        78.0
+bottomLeftY        45.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        94.0
+bottomLeftY        47.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        80.0
+bottomLeftY        44.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        92.0
+bottomLeftY        51.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        85.0
+bottomLeftY        43.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        85.0
+bottomLeftY        39.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        83.0
+bottomLeftY        40.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        83.0
+bottomLeftY        39.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        84.0
+bottomLeftY        33.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        91.0
+bottomLeftY        41.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        85.0
+bottomLeftY        37.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        79.0
+bottomLeftY        33.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        78.0
+bottomLeftY        49.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        104.0
+bottomLeftY        48.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        98.0
+bottomLeftY        51.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        88.0
+bottomLeftY        42.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        83.0
+bottomLeftY        48.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        87.0
+bottomLeftY        44.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        95.0
+bottomLeftY        50.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        78.0
+bottomLeftY        43.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        87.0
+bottomLeftY        50.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        90.0
+bottomLeftY        51.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        80.0
+bottomLeftY        43.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        79.0
+bottomLeftY        43.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        85.0
+bottomLeftY        46.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        88.0
+bottomLeftY        46.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        95.0
+bottomLeftY        46.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        90.0
+bottomLeftY        44.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        87.0
+bottomLeftY        50.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        103.0
+bottomLeftY        52.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        81.0
+bottomLeftY        40.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        86.0
+bottomLeftY        48.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        93.0
+bottomLeftY        51.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        76.0
+bottomLeftY        47.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        96.0
+bottomLeftY        52.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        72.0
+bottomLeftY        46.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        96.0
+bottomLeftY        49.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        83.0
+bottomLeftY        41.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        91.0
+bottomLeftY        58.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        108.0
+bottomLeftY        54.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        79.0
+bottomLeftY        46.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        96.0
+bottomLeftY        51.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        85.0
+bottomLeftY        43.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        88.0
+bottomLeftY        50.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     0.0
+bottomRightY      0.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     76.0
+bottomRightY      48.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     90.0
+bottomRightY      58.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     93.0
+bottomRightY      54.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     81.0
+bottomRightY      47.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     88.0
+bottomRightY      53.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     88.0
+bottomRightY      55.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     81.0
+bottomRightY      49.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     87.0
+bottomRightY      55.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     91.0
+bottomRightY      55.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     84.0
+bottomRightY      46.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     80.0
+bottomRightY      50.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     99.0
+bottomRightY      51.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     98.0
+bottomRightY      55.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     83.0
+bottomRightY      50.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     90.0
+bottomRightY      50.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     93.0
+bottomRightY      52.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     60.0
+bottomRightY      49.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     81.0
+bottomRightY      56.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     90.0
+bottomRightY      52.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     88.0
+bottomRightY      53.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     85.0
+bottomRightY      51.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     77.0
+bottomRightY      53.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     78.0
+bottomRightY      53.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     84.0
+bottomRightY      55.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     79.0
+bottomRightY      52.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     57.0
+bottomRightY      44.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     86.0
+bottomRightY      53.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     76.0
+bottomRightY      49.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     85.0
+bottomRightY      54.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     95.0
+bottomRightY      55.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     72.0
+bottomRightY      52.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     91.0
+bottomRightY      47.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     88.0
+bottomRightY      52.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     63.0
+bottomRightY      50.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     73.0
+bottomRightY      45.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     64.0
+bottomRightY      41.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     79.0
+bottomRightY      47.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     84.0
+bottomRightY      48.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     88.0
+bottomRightY      57.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     68.0
+bottomRightY      45.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     78.0
+bottomRightY      49.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     80.0
+bottomRightY      47.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     93.0
+bottomRightY      49.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     77.0
+bottomRightY      46.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     93.0
+bottomRightY      53.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     86.0
+bottomRightY      48.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     84.0
+bottomRightY      47.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     86.0
+bottomRightY      50.0 
+centerX:     67.0
+centerY:       45.0
+topRightX       79.0
+topLeftX    94.0
+bottomLeftX        73.0
+bottomLeftY        38.0
+topRightY    47.0
+topLeftY    50.0
+bottomRightX     77.0
+bottomRightY      50.0 
+pogX   1984   pogY   90
+pogX   64   pogY   720
+pogX   2752   pogY   360
+pogX   1216   pogY   450
+pogX   448   pogY   630
+pogX   320   pogY   450
+pogX   448   pogY   270
+pogX   960   pogY   180
+pogX   1728   pogY   90
+pogX   704   pogY   540
+pogX   448   pogY   720
+pogX   192   pogY   450
+pogX   1216   pogY   270
+pogX   704   pogY   270
+pogX   1472   pogY   90
+pogX   192   pogY   540
+pogX   1728   pogY   630
+pogX   320   pogY   630
+pogX   2112   pogY   270
+pogX   1216   pogY   180
+pogX   576   pogY   630
+pogX   1088   pogY   180
+pogX   320   pogY   1080
+pogX   1728   pogY   180
+pogX   704   pogY   630
+pogX   1344   pogY   90
+pogX   1728   pogY   630
+pogX   1600   pogY   900
+pogX   448   pogY   450
+pogX   448   pogY   270
+pogX   1984   pogY   90
+pogX   1728   pogY   90
+pogX   576   pogY   270
+pogX   576   pogY   270
+pogX   576   pogY   1800
+pogX   64   pogY   900
+pogX   704   pogY   90
+pogX   1600   pogY   270
+pogX   704   pogY   630
+pogX   192   pogY   180
+pogX   1728   pogY   810
+pogX   2368   pogY   900
+pogX   1600   pogY   360
+pogX   192   pogY   1440
+pogX   2112   pogY   630
+pogX   2240   pogY   990
+pogX   3008   pogY   90
+pogX   1600   pogY   720
+pogX   576   pogY   720
+pogX   1344   pogY   540
+pogX   320   pogY   360
+pogX   2368   pogY   630
+pogX   1472   pogY   630
+pogX   1088   pogY   540
+pogX   2240   pogY   360
+pogX   704   pogY   1170
+pogX   1600   pogY   180
+pogX   1856   pogY   540
+pogX   960   pogY   450
+pogX   1856   pogY   180
+pogX   960   pogY   180
+pogX   1472   pogY   630
+pogX   64   pogY   1350
+pogX   1472   pogY   630
+pogX   320   pogY   630
+pogX   1216   pogY   450
+pogX   1472   pogY   270
+pogX   1600   pogY   540
+pogX   1472   pogY   720
+pogX   64   pogY   360
+pogX   1984   pogY   90
+pogX   448   pogY   360
+pogX   320   pogY   630
+pogX   704   pogY   180
+pogX   2240   pogY   540
+pogX   704   pogY   0
+pogX   1344   pogY   90
+pogX   576   pogY   450
+pogX   64   pogY   360
+pogX   1600   pogY   450
+pogX   832   pogY   900
+pogX   320   pogY   630
+pogX   704   pogY   90
+pogX   1344   pogY   270
+pogX   832   pogY   90
+pogX   1344   pogY   540
+pogX   576   pogY   450
+pogX   1600   pogY   540
+pogX   448   pogY   90
+pogX   1728   pogY   360
+pogX   1472   pogY   360
+pogX   1088   pogY   990
+pogX   448   pogY   360
+pogX   192   pogY   270
+pogX   704   pogY   90
+pogX   1216   pogY   810
+pogX   2112   pogY   90
+pogX   320   pogY   1170
+pogX   3008   pogY   180
+pogX   960   pogY   1170
+pogX   2880   pogY   540
+pogX   320   pogY   180
+pogX   2624   pogY   0
+pogX   192   pogY   90
+pogX   960   pogY   360
+pogX   192   pogY   270
+pogX   576   pogY   180
+pogX   576   pogY   1260
+pogX   1600   pogY   270
+pogX   64   pogY   630
+pogX   448   pogY   450
+pogX   64   pogY   1440
+pogX   1344   pogY   90
+pogX   960   pogY   1350
+pogX   448   pogY   90
+pogX   448   pogY   1260
+pogX   2368   pogY   720
+pogX   64   pogY   720
+pogX   1344   pogY   540
+pogX   64   pogY   720
+pogX   2880   pogY   360
+pogX   2240   pogY   450
+pogX   320   pogY   90
+pogX   1600   pogY   630
+pogX   320   pogY   90
+pogX   1088   pogY   810
+pogX   448   pogY   360
+pogX   1856   pogY   630
+pogX   448   pogY   450
+pogX   1088   pogY   450
+pogX   320   pogY   990
+pogX   1728   pogY   90
+pogX   192   pogY   540
+pogX   1600   pogY   180
+pogX   448   pogY   720
+pogX   960   pogY   900
+pogX   320   pogY   990
+pogX   1984   pogY   180
+pogX   960   pogY   0
+pogX   704   pogY   1260
+pogX   1088   pogY   630
+pogX   1472   pogY   90
+pogX   192   pogY   540
+pogX   704   pogY   540
+pogX   320   pogY   450
+pogX   1984   pogY   180
+pogX   576   pogY   360
+pogX   2496   pogY   360
+pogX   2240   pogY   0
+pogX   1216   pogY   90
+pogX   448   pogY   720
+pogX   192   pogY   1170
+pogX   704   pogY   540
+pogX   2112   pogY   450
+pogX   448   pogY   450
+pogX   1088   pogY   270
+pogX   704   pogY   630
+pogX   832   pogY   990
+pogX   192   pogY   540
+pogX   2624   pogY   90
+pogX   832   pogY   1260
+pogX   2368   pogY   360
+pogX   320   pogY   450
+pogX   2240   pogY   540
+pogX   576   pogY   360
+pogX   2240   pogY   540
+pogX   320   pogY   1260
+pogX   2368   pogY   450
+pogX   448   pogY   270
+pogX   3520   pogY   450
+pogX   1600   pogY   720
+pogX   1984   pogY   90
+pogX   832   pogY   990
+pogX   2624   pogY   720
+pogX   1472   pogY   630
+pogX   2240   pogY   630
+pogX   576   pogY   540
+pogX   2496   pogY   540
+pogX   576   pogY   810
+pogX   448   pogY   630
+pogX   3008   pogY   450
+pogX   2112   pogY   900
+pogX   3776   pogY   0
+pogX   832   pogY   990
+pogX   2240   pogY   90
+pogX   64   pogY   0
+pogX   3008   pogY   180
+pogX   832   pogY   270
+pogX   960   pogY   180
+pogX   1984   pogY   360
+pogX   832   pogY   360
+pogX   2880   pogY   630
+pogX   320   pogY   180
+pogX   320   pogY   540
+pogX   1088   pogY   180
+pogX   2880   pogY   1440
+pogX   1472   pogY   540
+pogX   448   pogY   450
+pogX   1472   pogY   540
+pogX   1088   pogY   630
+pogX   64   pogY   1260
+pogX   1728   pogY   180
+pogX   704   pogY   180
+pogX   192   pogY   720
+pogX   320   pogY   900
+pogX   3008   pogY   360
+pogX   320   pogY   990
+pogX   2368   pogY   630
+pogX   2880   pogY   90
+pogX   320   pogY   360
+pogX   1472   pogY   1080
+pogX   320   pogY   450
+pogX   2880   pogY   90
+pogX   320   pogY   630
+pogX   1088   pogY   810
+pogX   1088   pogY   810
+pogX   1984   pogY   0
+pogX   832   pogY   270
+pogX   320   pogY   900
+pogX   192   pogY   360
+pogX   1600   pogY   270
+pogX   576   pogY   630
+pogX   192   pogY   540
+pogX   576   pogY   180
+pogX   448   pogY   270
+pogX   2368   pogY   270
+pogX   1088   pogY   990
+pogX   1472   pogY   540
+pogX   576   pogY   450
+pogX   1984   pogY   90
+pogX   320   pogY   90
+pogX   1856   pogY   360
+pogX   192   pogY   270
+pogX   2496   pogY   270
+pogX   320   pogY   720
+pogX   2112   pogY   540
+pogX   1344   pogY   990
+pogX   1600   pogY   90
+pogX   64   pogY   360
+pogX   1728   pogY   450
+pogX   1088   pogY   1080
+pogX   3008   pogY   900
+pogX   320   pogY   270
+pogX   1216   pogY   270
+pogX   2880   pogY   270
+pogX   1600   pogY   810
+pogX   960   pogY   900
+pogX   1216   pogY   1080
+pogX   2880   pogY   450
+pogX   960   pogY   1350
+pogX   1600   pogY   90
+pogX   576   pogY   1080
+pogX   2368   pogY   810
+pogX   1216   pogY   990
+pogX   2880   pogY   540
+pogX   2496   pogY   360
+pogX   3008   pogY   270
+pogX   1088   pogY   990
+pogX   832   pogY   990
+pogX   1600   pogY   720
+pogX   1600   pogY   990
+pogX   192   pogY   0
+pogX   2112   pogY   720
+pogX   320   pogY   1350
+pogX   2496   pogY   360
+pogX   64   pogY   1350
+pogX   2240   pogY   630
+pogX   1472   pogY   900
+pogX   2112   pogY   810
+pogX   832   pogY   1080
+pogX   2112   pogY   720
+pogX   448   pogY   1170
+pogX   2112   pogY   540
+pogX   1600   pogY   810
+pogX   2496   pogY   720
+pogX   192   pogY   90
+pogX   3136   pogY   450
+pogX   1344   pogY   900
+pogX   1600   pogY   630
+pogX   1216   pogY   900
+pogX   3008   pogY   270
+pogX   576   pogY   1440
+pogX   2752   pogY   450
+pogX   448   pogY   1080
+pogX   2496   pogY   450
+pogX   1344   pogY   810
+pogX   3008   pogY   450
+pogX   1728   pogY   720
+pogX   1216   pogY   720
+pogX   1856   pogY   450
+pogX   1600   pogY   450
+pogX   576   pogY   990
+pogX   1472   pogY   720
+pogX   1088   pogY   990
+pogX   2112   pogY   180
+pogX   576   pogY   990
+pogX   832   pogY   270
+pogX   1600   pogY   360
+pogX   576   pogY   540
+pogX   320   pogY   900
+pogX   448   pogY   270
+pogX   1472   pogY   540
+pogX   64   pogY   270
+pogX   1984   pogY   180
+pogX   192   pogY   270
+pogX   2880   pogY   180
+pogX   2752   pogY   270
+pogX   576   pogY   270
+pogX   1344   pogY   630
+pogX   64   pogY   450
+pogX   1728   pogY   720
+pogX   2112   pogY   720
+pogX   1728   pogY   630
+pogX   960   pogY   540
+pogX   448   pogY   90
+pogX   1600   pogY   540
+pogX   64   pogY   540
+pogX   1088   pogY   90
+pogX   192   pogY   450
+pogX   3136   pogY   360
+pogX   448   pogY   360
+pogX   1728   pogY   1620
+pogX   192   pogY   270
+pogX   832   pogY   180
+pogX   704   pogY   180
+pogX   1728   pogY   0
+pogX   448   pogY   630
+pogX   1856   pogY   180
+pogX   2112   pogY   630
+pogX   448   pogY   540
+pogX   704   pogY   810
+pogX   960   pogY   900
+pogX   1344   pogY   0
+pogX   576   pogY   450
+pogX   1472   pogY   720
+pogX   1984   pogY   630
+pogX   832   pogY   270
+pogX   2112   pogY   90
+pogX   448   pogY   90
+pogX   4032   pogY   90
+pogX   64   pogY   180
+pogX   960   pogY   270
+pogX   64   pogY   270
+pogX   1088   pogY   90
+pogX   960   pogY   1350
+pogX   2240   pogY   360
+pogX   1472   pogY   540
+pogX   64   pogY   270
+pogX   832   pogY   540
+pogX   1088   pogY   990
+pogX   1344   pogY   630
+pogX   832   pogY   360
+pogX   320   pogY   720
+pogX   320   pogY   540
+pogX   1088   pogY   180
+pogX   192   pogY   450
+pogX   576   pogY   1260
+pogX   448   pogY   180
+pogX   64   pogY   1080
+pogX   192   pogY   0
+pogX   64   pogY   1080
+pogX   1600   pogY   1350
+pogX   320   pogY   450
+pogX   320   pogY   450
+pogX   2240   pogY   360
+pogX   192   pogY   180
+pogX   2240   pogY   720
+pogX   192   pogY   90
+pogX   2240   pogY   720
+pogX   64   pogY   720
+pogX   1472   pogY   630
+pogX   2880   pogY   900
+pogX   1216   pogY   90
+pogX   704   pogY   270
+pogX   576   pogY   630
+pogX   960   pogY   810
+pogX   2240   pogY   270
+pogX   2624   pogY   360
+pogX   320   pogY   360
+pogX   3648   pogY   1080
+pogX   64   pogY   270
+pogX   2368   pogY   270
+pogX   1088   pogY   990
+pogX   2368   pogY   180
+pogX   64   pogY   90
+pogX   2752   pogY   90
+pogX   64   pogY   180
+pogX   2240   pogY   270
+pogX   64   pogY   90
+pogX   960   pogY   180
+pogX   960   pogY   540
+pogX   2240   pogY   450
+pogX   960   pogY   90
+pogX   3392   pogY   360
+pogX   64   pogY   360
+pogX   1856   pogY   180
+pogX   704   pogY   180
+pogX   2112   pogY   720
+pogX   832   pogY   270
+pogX   1344   pogY   180
+pogX   448   pogY   720
+pogX   1344   pogY   90
+pogX   576   pogY   90
+pogX   1984   pogY   540
+pogX   960   pogY   450
+pogX   1728   pogY   630
+pogX   320   pogY   90
+pogX   1984   pogY   540
+pogX   320   pogY   450
+pogX   1216   pogY   90
+pogX   448   pogY   540
+pogX   1472   pogY   270
+pogX   64   pogY   450
+pogX   2496   pogY   360
+pogX   1088   pogY   180
+pogX   2240   pogY   360
+pogX   1088   pogY   270
+pogX   2368   pogY   630
+pogX   64   pogY   180
+pogX   2752   pogY   450
+pogX   192   pogY   450
+pogX   2496   pogY   1620
+pogX   448   pogY   810
+pogX   1728   pogY   450
+pogX   448   pogY   450
+pogX   2752   pogY   450
+pogX   1088   pogY   1170
+pogX   1600   pogY   90
+pogX   576   pogY   990
+pogX   2240   pogY   360
+pogX   3520   pogY   0
+pogX   3392   pogY   90
+pogX   576   pogY   180
+pogX   1984   pogY   180
+pogX   576   pogY   270
+pogX   2752   pogY   1530
+pogX   320   pogY   450
+pogX   832   pogY   270
+pogX   64   pogY   450
+pogX   2496   pogY   180
+pogX   1088   pogY   1080
+pogX   704   pogY   90
+pogX   192   pogY   270
+pogX   1728   pogY   720
+pogX   1856   pogY   90
+pogX   448   pogY   360
+pogX   1984   pogY   540
+pogX   192   pogY   360
+pogX   1728   pogY   360
+pogX   1472   pogY   630
+pogX   1984   pogY   180
+pogX   448   pogY   900
+pogX   2112   pogY   900
+pogX   2368   pogY   810
+pogX   1472   pogY   630
+pogX   1856   pogY   540
+pogX   1472   pogY   990
+pogX   576   pogY   720
+pogX   1216   pogY   990
+pogX   1472   pogY   630
+pogX   576   pogY   360
+pogX   1088   pogY   810
+pogX   2496   pogY   180
+pogX   192   pogY   630
+pogX   1344   pogY   540
+pogX   704   pogY   630
+pogX   1728   pogY   630
+pogX   2240   pogY   630
+pogX   192   pogY   720
+pogX   2240   pogY   450
+pogX   704   pogY   270
+pogX   1600   pogY   90
+pogX   192   pogY   270
+pogX   1600   pogY   540
+pogX   832   pogY   0
+pogX   576   pogY   900
+pogX   192   pogY   360
+pogX   1856   pogY   270
+pogX   192   pogY   90
+pogX   2240   pogY   720
+pogX   1088   pogY   630
+pogX   1088   pogY   90
+pogX   448   pogY   990
+pogX   1088   pogY   0
+pogX   64   pogY   360
+pogX   1984   pogY   270
+pogX   576   pogY   1170
+pogX   1856   pogY   0
+pogX   320   pogY   180
+pogX   1600   pogY   810
+pogX   64   pogY   180
+pogX   832   pogY   900
+pogX   1216   pogY   630
+pogX   704   pogY   900
+pogX   832   pogY   360
+pogX   1088   pogY   810
+pogX   576   pogY   270
+pogX   576   pogY   630
+pogX   576   pogY   990
+pogX   1472   pogY   540
+pogX   448   pogY   270
+pogX   832   pogY   720
+pogX   1216   pogY   540
+pogX   1216   pogY   630
+pogX   576   pogY   90
+pogX   1856   pogY   270
+pogX   960   pogY   900
+pogX   1088   pogY   720
+pogX   960   pogY   90
+pogX   960   pogY   720
+pogX   448   pogY   450
+pogX   448   pogY   900
+pogX   64   pogY   450
+pogX   1472   pogY   720
+pogX   448   pogY   270
+pogX   1728   pogY   90
+pogX   320   pogY   630
+pogX   64   pogY   990
+pogX   576   pogY   1080
+pogX   448   pogY   360
+pogX   1088   pogY   450
+pogX   1088   pogY   540
+pogX   1088   pogY   180
+pogX   960   pogY   810
+pogX   960   pogY   360
+pogX   1472   pogY   540
+pogX   832   pogY   540
+pogX   1216   pogY   540
+pogX   320   pogY   450
+pogX   576   pogY   990
+pogX   320   pogY   810
+pogX   1216   pogY   810
+pogX   1344   pogY   270
+pogX   960   pogY   450
+pogX   1216   pogY   360
+pogX   960   pogY   540
+pogX   832   pogY   720
+pogX   320   pogY   0
+pogX   1728   pogY   540
+pogX   448   pogY   270
+pogX   1216   pogY   90
+pogX   320   pogY   810
+pogX   1472   pogY   90
+pogX   192   pogY   540
+pogX   960   pogY   720
+pogX   960   pogY   360
+pogX   1088   pogY   180
+pogX   960   pogY   360
+pogX   832   pogY   720
+pogX   576   pogY   180
+pogX   1728   pogY   90
+pogX   1344   pogY   900
+pogX   576   pogY   270
+pogX   64   pogY   360
+pogX   3136   pogY   450
+pogX   832   pogY   990
+pogX   1216   pogY   180
+pogX   192   pogY   450
+pogX   1088   pogY   270
+pogX   192   pogY   270
+pogX   1216   pogY   810
+pogX   192   pogY   720
+pogX   1088   pogY   810
+pogX   1600   pogY   1080
+pogX   1984   pogY   90
+pogX   704   pogY   1080
+pogX   576   pogY   810
+pogX   320   pogY   900
+pogX   320   pogY   540
+pogX   448   pogY   450
+pogX   704   pogY   720
+pogX   64   pogY   180
+pogX   320   pogY   540
+pogX   704   pogY   1170
+pogX   1216   pogY   0
+pogX   1088   pogY   1170
+pogX   3008   pogY   1440
+pogX   704   pogY   540
+pogX   448   pogY   630
+pogX   704   pogY   810
+pogX   2496   pogY   720
+pogX   3904   pogY   90
+pogX   1856   pogY   360
+pogX   320   pogY   90
+pogX   2752   pogY   360
+pogX   832   pogY   720
+pogX   1600   pogY   180
+pogX   1984   pogY   720
+pogX   704   pogY   0
+pogX   1472   pogY   90
+pogX   1216   pogY   900
+pogX   1344   pogY   90
+pogX   832   pogY   900
+pogX   1600   pogY   90
+pogX   1472   pogY   720
+pogX   448   pogY   90
+pogX   2368   pogY   180
+pogX   320   pogY   540
+pogX   960   pogY   630
+pogX   960   pogY   360
+pogX   1472   pogY   1260
+pogX   832   pogY   810
+pogX   832   pogY   900
+pogX   1728   pogY   630
+pogX   192   pogY   720
+pogX   448   pogY   630
+pogX   448   pogY   900
+pogX   576   pogY   450
+pogX   2368   pogY   270
+pogX   3008   pogY   630
+pogX   1600   pogY   540
+pogX   832   pogY   630
+pogX   1344   pogY   630
+pogX   704   pogY   270
+pogX   1088   pogY   720
+pogX   448   pogY   810
+pogX   1216   pogY   360
+pogX   1856   pogY   180
+pogX   704   pogY   900
+pogX   832   pogY   90
+pogX   448   pogY   1260
+pogX   2752   pogY   360
+pogX   832   pogY   990
+pogX   1216   pogY   540
+pogX   1088   pogY   360
+pogX   1728   pogY   540
+pogX   320   pogY   90
+pogX   1856   pogY   450
+pogX   320   pogY   720
+pogX   704   pogY   270
+pogX   320   pogY   810
+pogX   448   pogY   720
+pogX   1344   pogY   900
+pogX   2112   pogY   270
+pogX   192   pogY   630
+pogX   1216   pogY   90
+pogX   64   pogY   90
+pogX   1216   pogY   360
+pogX   576   pogY   810
+pogX   448   pogY   630
+pogX   2112   pogY   630
+pogX   192   pogY   810
+pogX   3008   pogY   180
+pogX   192   pogY   270
+pogX   2240   pogY   270
+pogX   704   pogY   450
+pogX   2240   pogY   0
+pogX   1088   pogY   720
+pogX   1600   pogY   180
+pogX   1088   pogY   540
+pogX   1600   pogY   0
+pogX   576   pogY   180
+pogX   320   pogY   630
+pogX   960   pogY   90
+pogX   576   pogY   360
+pogX   192   pogY   360
+pogX   960   pogY   360
+pogX   704   pogY   450
+pogX   3392   pogY   90
+pogX   832   pogY   810
+pogX   576   pogY   720
+pogX   3264   pogY   90
+pogX   576   pogY   360
+pogX   64   pogY   180
+pogX   1344   pogY   180
+pogX   1088   pogY   810
+pogX   2496   pogY   630
+pogX   192   pogY   540
+pogX   1344   pogY   810
+pogX   192   pogY   450
+pogX   192   pogY   540
+pogX   192   pogY   1170
+pogX   2496   pogY   360
+pogX   2496   pogY   1350
+pogX   64   pogY   90
+pogX   448   pogY   0
+pogX   576   pogY   270
+pogX   2112   pogY   1620
+pogX   448   pogY   180
+pogX   3008   pogY   1350
+pogX   64   pogY   0
+pogX   2240   pogY   1260
+pogX   4032   pogY   1080
+pogX   1984   pogY   810
+pogX   576   pogY   1530
+pogX   832   pogY   630
+pogX   192   pogY   270
+pogX   3008   pogY   1170
+pogX   192   pogY   90
+pogX   1728   pogY   360
+pogX   1088   pogY   0
+pogX   448   pogY   720
+pogX   2752   pogY   270
+pogX   1728   pogY   270
+pogX   192   pogY   540
+pogX   832   pogY   180
+pogX   1088   pogY   360
+pogX   320   pogY   1080
+pogX   1728   pogY   720
+pogX   448   pogY   360
+pogX   960   pogY   990
+pogX   192   pogY   630
+pogX   192   pogY   720
+pogX   192   pogY   90
+pogX   1472   pogY   720
+pogX   704   pogY   630
+pogX   1600   pogY   0
+pogX   576   pogY   270
+pogX   2112   pogY   180
+pogX   192   pogY   360
+pogX   704   pogY   720
+pogX   64   pogY   540
+pogX   1344   pogY   180
+pogX   448   pogY   450
+pogX   3008   pogY   360
+pogX   448   pogY   630
+pogX   1216   pogY   0
+pogX   1472   pogY   1170
+pogX   2240   pogY   180
+pogX   1216   pogY   1170
+pogX   2368   pogY   540
+pogX   320   pogY   360
+pogX   1600   pogY   720
+pogX   1216   pogY   270
+pogX   2880   pogY   360
+pogX   320   pogY   270
+pogX   2752   pogY   90
+pogX   448   pogY   360
+pogX   1344   pogY   720
+pogX   1344   pogY   630
+pogX   2112   pogY   360
+pogX   832   pogY   990
+pogX   1088   pogY   810
+pogX   192   pogY   1080
+pogX   2880   pogY   360
+pogX   320   pogY   90
+pogX   832   pogY   450
+pogX   1600   pogY   540
+pogX   704   pogY   360
+pogX   1472   pogY   720
+pogX   192   pogY   1080
+pogX   576   pogY   810
+pogX   1984   pogY   810
+pogX   1600   pogY   90
+pogX   576   pogY   180
+pogX   576   pogY   450
+pogX   192   pogY   0
+pogX   960   pogY   900
+pogX   192   pogY   990
+pogX   192   pogY   540
+pogX   1216   pogY   720
+pogX   704   pogY   360
+pogX   64   pogY   810
+pogX   576   pogY   360
+pogX   1472   pogY   540
+pogX   448   pogY   1260
+pogX   1216   pogY   360
+pogX   448   pogY   540
+pogX   960   pogY   90
+pogX   448   pogY   270
+pogX   3904   pogY   90
+pogX   1600   pogY   180
+pogX   1216   pogY   360
+pogX   1088   pogY   810
+pogX   832   pogY   540
+pogX   960   pogY   540
+pogX   960   pogY   900
+pogX   960   pogY   630
+pogX   704   pogY   900
+pogX   1088   pogY   90
+pogX   448   pogY   630
+pogX   1600   pogY   810
+pogX   1984   pogY   630
+pogX   192   pogY   0
+pogX   2496   pogY   810
+pogX   64   pogY   270
+pogX   1472   pogY   630
+pogX   320   pogY   810
+pogX   1344   pogY   450
+pogX   448   pogY   90
+pogX   1344   pogY   540
+pogX   1728   pogY   180
+pogX   64   pogY   180
+pogX   1600   pogY   630
+pogX   960   pogY   90
+pogX   1600   pogY   720
+pogX   576   pogY   630
+pogX   2112   pogY   630
+pogX   64   pogY   1170
+pogX   2112   pogY   900
+pogX   704   pogY   720
+pogX   1472   pogY   540
+pogX   2112   pogY   720
+pogX   192   pogY   180
+pogX   1216   pogY   180
+pogX   64   pogY   0
+pogX   1344   pogY   450
+pogX   64   pogY   720
+pogX   1088   pogY   450
+pogX   192   pogY   90
+pogX   1600   pogY   720
+pogX   320   pogY   450
+pogX   1856   pogY   720
+pogX   960   pogY   1170
+pogX   1344   pogY   450
+pogX   64   pogY   90
+pogX   1600   pogY   630
+pogX   192   pogY   540
+pogX   1088   pogY   720
+pogX   64   pogY   270
+pogX   2240   pogY   180
+pogX   192   pogY   1080
+pogX   960   pogY   90
+pogX   320   pogY   1080
+pogX   1472   pogY   360
+pogX   2368   pogY   180
+pogX   704   pogY   360
+pogX   576   pogY   180
+pogX   704   pogY   90
+pogX   2368   pogY   540
+pogX   704   pogY   1080
+pogX   2240   pogY   360
+pogX   192   pogY   540
+pogX   448   pogY   1080
+pogX   320   pogY   450
+pogX   576   pogY   900
+pogX   64   pogY   540
+pogX   2368   pogY   450
+pogX   1088   pogY   990
+pogX   2880   pogY   270
+pogX   192   pogY   900
+pogX   2624   pogY   90
+pogX   704   pogY   180
+pogX   2240   pogY   540
+pogX   1600   pogY   810
+pogX   2624   pogY   450
+pogX   1856   pogY   630
+pogX   192   pogY   1080
+pogX   1088   pogY   90
+pogX   2368   pogY   450
+pogX   1216   pogY   1170
+pogX   2112   pogY   810
+pogX   1472   pogY   720
+pogX   1984   pogY   270
+pogX   448   pogY   270
+pogX   2240   pogY   90
+pogX   1088   pogY   90
+pogX   576   pogY   270
+pogX   832   pogY   450
+pogX   1984   pogY   90
+pogX   1344   pogY   450
+pogX   1984   pogY   270
+pogX   1216   pogY   900
+pogX   320   pogY   1170
+pogX   448   pogY   270
+pogX   1344   pogY   900
+pogX   576   pogY   540
+pogX   2624   pogY   0
+pogX   320   pogY   180
+pogX   1600   pogY   0
+pogX   448   pogY   450
+pogX   2112   pogY   360
+pogX   832   pogY   90
+pogX   2240   pogY   540
+pogX   320   pogY   360
+pogX   2112   pogY   540
+pogX   704   pogY   0
+pogX   2496   pogY   270
+pogX   1088   pogY   990
+pogX   1728   pogY   720
+pogX   832   pogY   90
+pogX   1984   pogY   540
+pogX   1216   pogY   90
+pogX   2112   pogY   360
+pogX   704   pogY   0
+pogX   1856   pogY   270
+pogX   448   pogY   90
+pogX   1728   pogY   180
+pogX   960   pogY   270
+pogX   2368   pogY   630
+pogX   64   pogY   810
+pogX   1344   pogY   180
+pogX   1216   pogY   180
+pogX   2112   pogY   90
+pogX   192   pogY   630
+pogX   3008   pogY   360
+pogX   2112   pogY   180
+pogX   64   pogY   450
+pogX   704   pogY   180
+pogX   576   pogY   270
+pogX   1088   pogY   540
+pogX   832   pogY   450
+pogX   192   pogY   720
+pogX   2112   pogY   270
+pogX   320   pogY   630
+pogX   2496   pogY   720
+pogX   832   pogY   180
+pogX   1088   pogY   900
+pogX   448   pogY   270
+pogX   1728   pogY   450
+pogX   1088   pogY   900
+pogX   1344   pogY   540
+pogX   1216   pogY   360
+pogX   3392   pogY   90
+pogX   2240   pogY   1080
+pogX   1344   pogY   990
+pogX   704   pogY   270
+pogX   192   pogY   1170
+pogX   576   pogY   180
+pogX   1728   pogY   1620
+pogX   2752   pogY   360
+pogX   832   pogY   720
+pogX   704   pogY   180
+pogX   2112   pogY   720
+pogX   704   pogY   630
+pogX   1344   pogY   720
+pogX   576   pogY   360
+pogX   1600   pogY   180
+pogX   1600   pogY   90
+pogX   1856   pogY   270
+pogX   1216   pogY   270
+pogX   704   pogY   180
+pogX   2240   pogY   450
+pogX   1472   pogY   810
+pogX   1088   pogY   450
+pogX   704   pogY   180
+pogX   2112   pogY   720
+pogX   320   pogY   720
+pogX   2368   pogY   90
+pogX   704   pogY   180
+pogX   1216   pogY   720
+pogX   2240   pogY   360
+pogX   832   pogY   270
+pogX   1984   pogY   540
+pogX   576   pogY   0
+pogX   2496   pogY   360
+pogX   1088   pogY   360
+pogX   576   pogY   450
+pogX   192   pogY   990
+pogX   1728   pogY   360
+pogX   320   pogY   90
+pogX   960   pogY   630
+pogX   1216   pogY   180
+pogX   1216   pogY   720
+pogX   832   pogY   90
+pogX   1984   pogY   360
+pogX   3136   pogY   360
+pogX   1984   pogY   270
+pogX   960   pogY   540
+pogX   1856   pogY   540
+pogX   576   pogY   450
+pogX   2112   pogY   270
+pogX   320   pogY   90
+pogX   4800   pogY   540
+pogX   1088   pogY   810
+pogX   832   pogY   360
+pogX   2112   pogY   720
+pogX   1344   pogY   90
+pogX   1472   pogY   990
+pogX   832   pogY   450
+pogX   2240   pogY   630
+pogX   576   pogY   90
+pogX   2496   pogY   450
+pogX   1216   pogY   0
+pogX   1600   pogY   630
+pogX   448   pogY   1620
+pogX   1344   pogY   270
+pogX   320   pogY   1080
+pogX   1216   pogY   630
+pogX   1472   pogY   1080
+pogX   576   pogY   1080
+pogX   448   pogY   270
+pogX   3264   pogY   180
+pogX   1216   pogY   900
+pogX   2112   pogY   360
+pogX   960   pogY   1080
+pogX   3008   pogY   90
+pogX   320   pogY   180
+pogX   2112   pogY   270
+pogX   1344   pogY   720
+pogX   448   pogY   270
+pogX   2624   pogY   180
+pogX   192   pogY   0
+pogX   448   pogY   270
+pogX   576   pogY   270
+pogX   1728   pogY   630
+pogX   448   pogY   90
+pogX   2368   pogY   720
+pogX   3008   pogY   180
+pogX   2112   pogY   90
+pogX   1728   pogY   720
+pogX   448   pogY   540
+pogX   1856   pogY   810
+pogX   448   pogY   630
+pogX   1216   pogY   720
+pogX   576   pogY   990
+pogX   1600   pogY   720
+pogX   64   pogY   270
+pogX   1344   pogY   810
+pogX   448   pogY   180
+pogX   1088   pogY   810
+pogX   576   pogY   270
+pogX   1088   pogY   990
+pogX   832   pogY   180
+pogX   2624   pogY   540
+pogX   64   pogY   0
+pogX   832   pogY   270
+pogX   1984   pogY   630
+pogX   1088   pogY   180
+pogX   2240   pogY   540
+pogX   1344   pogY   810
+pogX   1856   pogY   630
+pogX   1472   pogY   270
+pogX   2240   pogY   540
+pogX   576   pogY   270
+pogX   448   pogY   630
+pogX   320   pogY   720
+pogX   960   pogY   810
+pogX   832   pogY   720
+pogX   1728   pogY   720
+pogX   1088   pogY   990
+pogX   1216   pogY   630
+pogX   3648   pogY   270
+pogX   1472   pogY   540
+pogX   1088   pogY   270
+pogX   1600   pogY   180
+pogX   448   pogY   180
+pogX   1728   pogY   90
+pogX   1344   pogY   360
+pogX   576   pogY   90
+pogX   1600   pogY   720
+pogX   64   pogY   180
+pogX   320   pogY   900
+pogX   320   pogY   450
+pogX   1600   pogY   630
+pogX   1088   pogY   360
+pogX   1600   pogY   720
+pogX   1472   pogY   990
+pogX   1472   pogY   450
+pogX   320   pogY   180
+pogX   1984   pogY   630
+pogX   576   pogY   270
+pogX   1728   pogY   0
+pogX   1216   pogY   990
+pogX   1344   pogY   630
+pogX   320   pogY   90
+pogX   1344   pogY   180
+pogX   832   pogY   180
+pogX   1600   pogY   360
+pogX   1728   pogY   270
+pogX   64   pogY   450
+pogX   2112   pogY   540
+pogX   320   pogY   180
+pogX   1472   pogY   810
+pogX   1088   pogY   180
+pogX   1344   pogY   900
+pogX   320   pogY   450
+pogX   1600   pogY   630
+pogX   832   pogY   630
+pogX   448   pogY   180
+pogX   704   pogY   0
+pogX   1344   pogY   270
+pogX   576   pogY   1170
+pogX   1472   pogY   720
+pogX   2240   pogY   450
+pogX   448   pogY   90
+pogX   1984   pogY   720
+pogX   320   pogY   180
+pogX   704   pogY   990
+pogX   448   pogY   1080
+pogX   1600   pogY   810
+pogX   448   pogY   1170
+pogX   1728   pogY   450
+pogX   64   pogY   180
+pogX   704   pogY   360
+pogX   1088   pogY   810
+pogX   704   pogY   180
+pogX   832   pogY   990
+pogX   1344   pogY   810
+pogX   960   pogY   900
+pogX   2240   pogY   540
+pogX   704   pogY   990
+pogX   1088   pogY   450
+pogX   576   pogY   180
+pogX   1984   pogY   720
+pogX   1344   pogY   810
+pogX   832   pogY   180
+pogX   1856   pogY   810
+pogX   2496   pogY   540
+pogX   832   pogY   180
+pogX   2368   pogY   360
+pogX   704   pogY   270
+pogX   2240   pogY   540
+pogX   1472   pogY   810
+pogX   2624   pogY   450
+pogX   1984   pogY   630
+pogX   1728   pogY   900
+pogX   1984   pogY   630
+pogX   2752   pogY   450
+pogX   960   pogY   180
+pogX   1600   pogY   180
+pogX   320   pogY   270
+pogX   704   pogY   630
+pogX   576   pogY   180
+pogX   1600   pogY   360
+pogX   2240   pogY   900
+pogX   1600   pogY   630
+pogX   576   pogY   90
+pogX   960   pogY   90
+pogX   576   pogY   270
+pogX   1856   pogY   540
+pogX   1984   pogY   0
+pogX   704   pogY   540
+pogX   832   pogY   810
+pogX   320   pogY   0
+pogX   704   pogY   630
+pogX   320   pogY   540
+pogX   320   pogY   900
+pogX   1600   pogY   990
+pogX   2112   pogY   630
+pogX   320   pogY   180
+pogX   576   pogY   630
+pogX   192   pogY   540
+pogX   1728   pogY   720
+pogX   1600   pogY   900
+pogX   1600   pogY   180
+pogX   192   pogY   360
+pogX   1088   pogY   0
+pogX   320   pogY   270
+pogX   832   pogY   90
+pogX   192   pogY   450
+pogX   2112   pogY   630
+pogX   320   pogY   270
+pogX   64   pogY   270
+pogX   960   pogY   450
+pogX   448   pogY   450
+pogX   832   pogY   270
+pogX   3648   pogY   90
+pogX   704   pogY   360
+pogX   704   pogY   90
+pogX   192   pogY   900
+pogX   1472   pogY   90
+pogX   960   pogY   1080
+pogX   1600   pogY   810
+pogX   448   pogY   1080
+pogX   64   pogY   270
+pogX   960   pogY   450
+pogX   832   pogY   1080
+pogX   704   pogY   0
+pogX   704   pogY   180
+pogX   448   pogY   1080
+pogX   704   pogY   1170
+pogX   832   pogY   1170
+pogX   1088   pogY   270
+pogX   576   pogY   270
+pogX   3520   pogY   90
+pogX   832   pogY   0
+pogX   1600   pogY   270
+pogX   1088   pogY   90
+pogX   1600   pogY   0
+pogX   576   pogY   360
+pogX   2368   pogY   630
+pogX   320   pogY   450
+pogX   1216   pogY   990
+pogX   704   pogY   0
+pogX   1088   pogY   180
+pogX   1984   pogY   900
+pogX   1344   pogY   900
+pogX   1472   pogY   810
+pogX   2752   pogY   270
+pogX   1216   pogY   900
+pogX   2240   pogY   720
+pogX   1216   pogY   1080
+pogX   1472   pogY   990
+pogX   1728   pogY   810
+pogX   2368   pogY   360
+pogX   1344   pogY   450
+pogX   320   pogY   990
+pogX   2496   pogY   360
+pogX   64   pogY   900
+pogX   448   pogY   180
+pogX   320   pogY   990
+pogX   1216   pogY   1080
+pogX   3776   pogY   450
+pogX   1216   pogY   180
+pogX   704   pogY   900
+pogX   64   pogY   90
+pogX   1856   pogY   630
+pogX   192   pogY   630
+pogX   2496   pogY   450
+pogX   64   pogY   900
+pogX   1344   pogY   720
+pogX   1728   pogY   630
+pogX   2240   pogY   270
+pogX   576   pogY   270
+pogX   1088   pogY   990
+pogX   1600   pogY   720
+pogX   704   pogY   1170
+pogX   576   pogY   270
+pogX   1472   pogY   990
+pogX   1088   pogY   270
+pogX   1856   pogY   90
+pogX   64   pogY   450
+pogX   1856   pogY   90
+pogX   1728   pogY   270
+pogX   576   pogY   180
+pogX   1216   pogY   900
+pogX   320   pogY   270
+pogX   1344   pogY   810
+pogX   1344   pogY   810
+pogX   192   pogY   360
+pogX   832   pogY   180
+pogX   960   pogY   360
+pogX   704   pogY   270
+pogX   960   pogY   630
+pogX   832   pogY   270
+pogX   320   pogY   720
+pogX   576   pogY   270
+pogX   1216   pogY   180
+pogX   64   pogY   270
+pogX   2112   pogY   630
+pogX   960   pogY   90
+pogX   960   pogY   90
+pogX   320   pogY   450
+pogX   1472   pogY   90
+pogX   448   pogY   450
+pogX   1344   pogY   180
+pogX   64   pogY   1080
+pogX   1472   pogY   810
+pogX   448   pogY   270
+pogX   1728   pogY   90
+pogX   320   pogY   270
+pogX   576   pogY   990
+pogX   192   pogY   450
+pogX   64   pogY   1260
+pogX   576   pogY   360
+pogX   1984   pogY   90
+pogX   960   pogY   1080
+pogX   1728   pogY   90
+pogX   832   pogY   0
+pogX   3392   pogY   90
+pogX   320   pogY   90
+pogX   1856   pogY   90
+pogX   64   pogY   1170
+pogX   1344   pogY   900
+pogX   64   pogY   270
+pogX   1088   pogY   630
+pogX   192   pogY   180
+pogX   832   pogY   1080
+pogX   64   pogY   270
+pogX   1088   pogY   90
+pogX   192   pogY   90
+pogX   1216   pogY   900
+pogX   576   pogY   270
+pogX   704   pogY   900
+pogX   64   pogY   900
+pogX   1856   pogY   270
+pogX   1088   pogY   270
+pogX   1088   pogY   270
+pogX   64   pogY   540
+pogX   448   pogY   180
+pogX   960   pogY   1260
+pogX   1344   pogY   720
+pogX   1216   pogY   180
+pogX   448   pogY   90
+pogX   64   pogY   1260
+pogX   1216   pogY   270
+pogX   704   pogY   270
+pogX   1216   pogY   90
+pogX   576   pogY   450
+pogX   448   pogY   720
+pogX   2752   pogY   630
+pogX   832   pogY   90
+pogX   192   pogY   1080
+pogX   832   pogY   0
+pogX   192   pogY   360
+pogX   1600   pogY   90
+pogX   1216   pogY   270
+pogX   1856   pogY   180
+pogX   960   pogY   990
+pogX   832   pogY   990
+pogX   64   pogY   540
+pogX   1600   pogY   90
+pogX   1600   pogY   810
+pogX   320   pogY   1080
+pogX   192   pogY   90
+pogX   1088   pogY   270
+pogX   704   pogY   360
+pogX   1600   pogY   630
+pogX   1600   pogY   900
+pogX   448   pogY   1080
+pogX   960   pogY   90
+pogX   1088   pogY   180
+pogX   576   pogY   540
+pogX   2112   pogY   540
+pogX   192   pogY   90
+pogX   832   pogY   270
+pogX   1216   pogY   900
+pogX   1088   pogY   270
+pogX   448   pogY   180
+pogX   576   pogY   1080
+pogX   448   pogY   360
+pogX   960   pogY   1170
+pogX   192   pogY   900
+pogX   448   pogY   900
+pogX   448   pogY   270
+pogX   1344   pogY   990
+pogX   448   pogY   90
+pogX   1600   pogY   810
+pogX   320   pogY   90
+pogX   960   pogY   900
+pogX   320   pogY   630
+pogX   2240   pogY   810
+pogX   832   pogY   1080
+pogX   576   pogY   900
+pogX   448   pogY   180
+pogX   64   pogY   1080
+pogX   64   pogY   450
+pogX   192   pogY   990
+pogX   1344   pogY   1350
+pogX   1088   pogY   360
+pogX   704   pogY   0
+pogX   1984   pogY   720
+pogX   192   pogY   1170
+pogX   448   pogY   1080
+pogX   1344   pogY   1080
+pogX   320   pogY   450
+pogX   64   pogY   450
+pogX   192   pogY   990
+pogX   2752   pogY   630
+pogX   320   pogY   360
+pogX   448   pogY   90
+pogX   64   pogY   1170
+pogX   448   pogY   0
+pogX   448   pogY   360
+pogX   320   pogY   450
+pogX   960   pogY   270
+pogX   64   pogY   450
+pogX   576   pogY   810
+pogX   704   pogY   900
+pogX   1088   pogY   720
+pogX   192   pogY   270
+pogX   832   pogY   270
+pogX   576   pogY   990
+pogX   320   pogY   810
+pogX   960   pogY   900
+pogX   960   pogY   900
+pogX   576   pogY   90
+pogX   2624   pogY   180
+pogX   576   pogY   90
+pogX   64   pogY   900
+pogX   192   pogY   450
+pogX   320   pogY   1080
+pogX   960   pogY   270
+pogX   960   pogY   0
+pogX   192   pogY   270
+pogX   1088   pogY   90
+pogX   192   pogY   450
+pogX   192   pogY   990
+pogX   576   pogY   630
+pogX   704   pogY   1080
+pogX   64   pogY   630
+pogX   704   pogY   90
+pogX   1088   pogY   900
+pogX   64   pogY   0
+pogX   64   pogY   450
+pogX   1216   pogY   90
+pogX   192   pogY   90
+pogX   832   pogY   990
+pogX   1216   pogY   990
+pogX   704   pogY   1080
+pogX   64   pogY   450
+pogX   448   pogY   990
+pogX   448   pogY   1170
+pogX   192   pogY   990
+pogX   320   pogY   540
+pogX   320   pogY   360
+pogX   448   pogY   720
+pogX   576   pogY   900
+pogX   1728   pogY   630
+pogX   704   pogY   180
+pogX   192   pogY   270
+pogX   1216   pogY   90
+pogX   832   pogY   720
+pogX   192   pogY   180
+pogX   320   pogY   630
+pogX   448   pogY   360
+pogX   1344   pogY   900
+pogX   320   pogY   900
+pogX   704   pogY   90
+pogX   64   pogY   180
+pogX   192   pogY   270
+pogX   576   pogY   720
+pogX   704   pogY   540
+pogX   192   pogY   990
+pogX   832   pogY   540
+pogX   1344   pogY   720
+pogX   960   pogY   810
+pogX   192   pogY   270
+pogX   448   pogY   720
+pogX   960   pogY   360
+pogX   448   pogY   990
+pogX   64   pogY   990
+pogX   64   pogY   720
+pogX   448   pogY   1080
+pogX   1344   pogY   360
+pogX   64   pogY   180
+pogX   320   pogY   540
+pogX   64   pogY   450
+pogX   960   pogY   720
+pogX   1344   pogY   900
+pogX   832   pogY   900
+pogX   320   pogY   450
+pogX   576   pogY   360
+pogX   320   pogY   360
+pogX   1088   pogY   180
+pogX   448   pogY   990
+pogX   1088   pogY   990
+pogX   64   pogY   540
+pogX   704   pogY   90
+pogX   3008   pogY   180
+pogX   448   pogY   450
+pogX   1856   pogY   180
+pogX   192   pogY   1080
+pogX   576   pogY   270
+pogX   1088   pogY   0
+pogX   576   pogY   450
+pogX   2240   pogY   90
+pogX   576   pogY   360
+pogX   1600   pogY   630
+pogX   704   pogY   1260
+pogX   1088   pogY   720
+pogX   192   pogY   270
+pogX   1216   pogY   180
+pogX   960   pogY   1080
+pogX   192   pogY   0
+pogX   1472   pogY   900
+pogX   1088   pogY   1080
+pogX   448   pogY   270
+pogX   960   pogY   1170
+pogX   448   pogY   90
+pogX   192   pogY   990
+pogX   64   pogY   540
+pogX   1088   pogY   360
+pogX   1088   pogY   180
+pogX   960   pogY   90
+pogX   1216   pogY   360
+pogX   576   pogY   360
+pogX   320   pogY   720
+pogX   192   pogY   810
+pogX   704   pogY   990
+pogX   320   pogY   0
+pogX   832   pogY   1170
+pogX   320   pogY   360
+pogX   64   pogY   360
+pogX   448   pogY   990
+pogX   320   pogY   90
+pogX   832   pogY   1080
+pogX   832   pogY   540
+pogX   704   pogY   1080
+pogX   192   pogY   1170
+pogX   64   pogY   990
+pogX   576   pogY   1080
+pogX   320   pogY   990
+pogX   576   pogY   180
+pogX   1600   pogY   450
+pogX   320   pogY   990
+pogX   576   pogY   360
+pogX   64   pogY   450
+pogX   192   pogY   900
+pogX   448   pogY   90
+pogX   576   pogY   1080
+pogX   192   pogY   1170
+pogX   1728   pogY   990
+pogX   64   pogY   900
+pogX   832   pogY   360
+pogX   192   pogY   1260
+pogX   320   pogY   990
+pogX   576   pogY   1170
+pogX   1472   pogY   990
+pogX   960   pogY   990
+pogX   448   pogY   180
+pogX   704   pogY   990
+pogX   2112   pogY   450
+pogX   576   pogY   360
+pogX   1088   pogY   540
+pogX   1472   pogY   810
+pogX   832   pogY   270
+pogX   320   pogY   720
+pogX   1728   pogY   540
+pogX   64   pogY   1260
+pogX   960   pogY   630
+pogX   960   pogY   990
+pogX   192   pogY   450
+pogX   832   pogY   1170
+pogX   1344   pogY   1080
+pogX   1344   pogY   990
+pogX   1088   pogY   360
+pogX   832   pogY   990
+pogX   1088   pogY   990
+pogX   1728   pogY   270
+pogX   1472   pogY   900
+pogX   64   pogY   90
+pogX   832   pogY   450
+pogX   1216   pogY   1170
+pogX   320   pogY   1080
+pogX   64   pogY   180
+pogX   576   pogY   720
+pogX   192   pogY   810
+pogX   64   pogY   450
+pogX   1088   pogY   900
+pogX   320   pogY   540
+pogX   1344   pogY   90
+pogX   192   pogY   720
+pogX   960   pogY   900
+pogX   1088   pogY   720
+pogX   192   pogY   540
+pogX   1728   pogY   270
+pogX   704   pogY   1260
+pogX   320   pogY   270
+pogX   448   pogY   900
+pogX   1088   pogY   630
+pogX   704   pogY   630
+pogX   320   pogY   360
+pogX   64   pogY   360
+pogX   832   pogY   90
+pogX   64   pogY   1080
+pogX   1344   pogY   720
+pogX   448   pogY   1170
+pogX   2752   pogY   450
+pogX   448   pogY   360
+pogX   448   pogY   1260
+pogX   832   pogY   990
+pogX   320   pogY   630
+pogX   576   pogY   1080
+pogX   704   pogY   900
+pogX   320   pogY   1260
+pogX   64   pogY   630
+pogX   64   pogY   1080
+pogX   960   pogY   720
+pogX   576   pogY   990
+pogX   832   pogY   720
+pogX   1472   pogY   540
+pogX   448   pogY   900
+pogX   704   pogY   0
+pogX   192   pogY   900
+pogX   448   pogY   540
+pogX   1088   pogY   630
+pogX   320   pogY   810
+pogX   192   pogY   990
+pogX   1088   pogY   900
+pogX   1472   pogY   450
+pogX   448   pogY   0
+pogX   1088   pogY   180
+pogX   576   pogY   270
+pogX   1984   pogY   180
+pogX   576   pogY   270
+pogX   704   pogY   180
+pogX   1728   pogY   720
+pogX   1728   pogY   720
+pogX   448   pogY   1170
+pogX   448   pogY   990
+pogX   448   pogY   90
+pogX   1728   pogY   0
+pogX   64   pogY   0
+pogX   1856   pogY   270
+pogX   320   pogY   270
+pogX   1088   pogY   540
+pogX   64   pogY   270
+pogX   1728   pogY   810
+pogX   448   pogY   990
+pogX   576   pogY   180
+pogX   1728   pogY   900
+pogX   832   pogY   180
+pogX   64   pogY   90
+pogX   832   pogY   900
+pogX   192   pogY   360
+pogX   1344   pogY   90
+pogX   320   pogY   1080
+pogX   1472   pogY   0
+pogX   832   pogY   180
+pogX   448   pogY   810
+pogX   960   pogY   270
+pogX   1472   pogY   90
+pogX   576   pogY   360
+pogX   1216   pogY   540
+pogX   64   pogY   270
+pogX   1216   pogY   630
+pogX   1472   pogY   810
+pogX   2880   pogY   270
+pogX   832   pogY   360
+pogX   960   pogY   900
+pogX   64   pogY   450
+pogX   576   pogY   1080
+pogX   1984   pogY   990
+pogX   192   pogY   990
+pogX   704   pogY   270
+pogX   192   pogY   630
+pogX   64   pogY   810
+pogX   64   pogY   900
+pogX   192   pogY   630
+pogX   576   pogY   900
+pogX   832   pogY   1170
+pogX   64   pogY   1080
+pogX   576   pogY   180
+pogX   576   pogY   1170
+pogX   576   pogY   360
+pogX   1600   pogY   540
+pogX   320   pogY   810
+pogX   64   pogY   990
+pogX   832   pogY   900
+pogX   448   pogY   1170
+pogX   1088   pogY   810
+pogX   320   pogY   450
+pogX   64   pogY   1080
+pogX   320   pogY   720
+pogX   960   pogY   990
+pogX   320   pogY   630
+pogX   704   pogY   360
+pogX   192   pogY   990
+pogX   576   pogY   90
+pogX   576   pogY   900
+pogX   64   pogY   90
+pogX   1088   pogY   810
+pogX   320   pogY   540
+pogX   960   pogY   270
+pogX   704   pogY   1170
+pogX   1216   pogY   810
+pogX   320   pogY   540
+pogX   2368   pogY   450
+pogX   64   pogY   450
+pogX   64   pogY   720
+pogX   1344   pogY   180
+pogX   320   pogY   1170
+pogX   576   pogY   1080
+pogX   960   pogY   990
+pogX   1216   pogY   540
+pogX   320   pogY   1260
+pogX   704   pogY   1080
+pogX   320   pogY   450
+pogX   1856   pogY   630
+pogX   320   pogY   1530
+pogX   1856   pogY   540
+pogX   1216   pogY   990
+pogX   1088   pogY   1080
+pogX   576   pogY   1170
+pogX   192   pogY   630
+pogX   1088   pogY   990
+pogX   1600   pogY   990
+pogX   704   pogY   90
+pogX   320   pogY   540
+pogX   1472   pogY   990
+pogX   576   pogY   90
+pogX   1216   pogY   810
+pogX   192   pogY   180
+pogX   1472   pogY   270
+pogX   960   pogY   270
+pogX   1856   pogY   450
+pogX   1088   pogY   990
+pogX   576   pogY   630
+pogX   704   pogY   810
+pogX   192   pogY   990
+pogX   320   pogY   630
+pogX   832   pogY   900
+pogX   832   pogY   90
+pogX   2240   pogY   630
+pogX   1088   pogY   1170
+pogX   2368   pogY   810
+pogX   1088   pogY   1260
+pogX   64   pogY   1080
+pogX   64   pogY   1080
+pogX   320   pogY   900
+pogX   320   pogY   1080
+pogX   1216   pogY   720
+pogX   320   pogY   450
+pogX   832   pogY   0
+pogX   832   pogY   360
+pogX   64   pogY   270
+pogX   960   pogY   180
+pogX   1344   pogY   180
+pogX   2752   pogY   810
+pogX   832   pogY   900
+pogX   2880   pogY   630
+pogX   1728   pogY   630
+pogX   960   pogY   900
+pogX   832   pogY   990
+pogX   64   pogY   360
+pogX   1088   pogY   360
+pogX   2240   pogY   810
+pogX   64   pogY   1080
+pogX   192   pogY   450
+pogX   1728   pogY   540
+pogX   448   pogY   450
+pogX   64   pogY   1080
+pogX   64   pogY   450
+pogX   1344   pogY   720
+pogX   192   pogY   90
+pogX   1088   pogY   630
+pogX   1472   pogY   990
+pogX   832   pogY   900
+pogX   448   pogY   360
+pogX   2240   pogY   540
+pogX   832   pogY   0
+pogX   448   pogY   360
+pogX   576   pogY   270
+pogX   448   pogY   990
+pogX   320   pogY   990
+pogX   1856   pogY   90
+pogX   704   pogY   360
+pogX   1856   pogY   450
+pogX   448   pogY   270
+pogX   1088   pogY   720
+pogX   192   pogY   0
+pogX   448   pogY   990
+pogX   64   pogY   1080
+pogX   320   pogY   990
+pogX   192   pogY   360
+pogX   1088   pogY   90
+pogX   320   pogY   0
+pogX   576   pogY   540
+pogX   960   pogY   1170
+pogX   960   pogY   0
+pogX   1472   pogY   1170
+pogX   1216   pogY   0
+pogX   64   pogY   1080
+pogX   832   pogY   270
+pogX   1344   pogY   1080
+pogX   1088   pogY   810
+pogX   448   pogY   180
+pogX   320   pogY   1080
+pogX   704   pogY   450
+pogX   1216   pogY   630
+pogX   1344   pogY   900
+pogX   1088   pogY   450
+pogX   64   pogY   1170
+pogX   1472   pogY   990
+pogX   1344   pogY   900
+pogX   832   pogY   540
+pogX   320   pogY   90
+pogX   832   pogY   990
+pogX   1216   pogY   1170
+pogX   1856   pogY   180
+pogX   1984   pogY   990
+pogX   832   pogY   450
+pogX   320   pogY   450
+pogX   192   pogY   990
+pogX   576   pogY   1170
+pogX   1216   pogY   90
+pogX   704   pogY   1170
+pogX   704   pogY   360
+pogX   192   pogY   1170
+pogX   576   pogY   1080
+pogX   64   pogY   630
+pogX   1600   pogY   90
+pogX   1600   pogY   990
+pogX   1472   pogY   90
+pogX   448   pogY   270
+pogX   64   pogY   990
+pogX   192   pogY   270
+pogX   1344   pogY   90
+pogX   832   pogY   990
+pogX   1344   pogY   1080
+pogX   448   pogY   990
+pogX   192   pogY   900
+pogX   1472   pogY   360
+pogX   3008   pogY   450
+pogX   448   pogY   1170
+pogX   1216   pogY   1080
+pogX   1344   pogY   90
+pogX   576   pogY   360
+pogX   1856   pogY   1710
+pogX   448   pogY   270
+pogX   832   pogY   360
+pogX   448   pogY   0
+pogX   3392   pogY   270
+pogX   1216   pogY   990
+pogX   2624   pogY   180
+pogX   960   pogY   180
+pogX   576   pogY   360
+pogX   448   pogY   360
+pogX   192   pogY   1170
+pogX   192   pogY   450
+pogX   704   pogY   540
+pogX   64   pogY   180
+pogX   1856   pogY   540
+pogX   960   pogY   90
+pogX   704   pogY   360
+pogX   960   pogY   180
+pogX   320   pogY   900
+pogX   64   pogY   900
+pogX   1344   pogY   180
+pogX   192   pogY   360
+pogX   832   pogY   990
+pogX   192   pogY   270
+pogX   1728   pogY   90
+pogX   960   pogY   900
+pogX   1472   pogY   630
+pogX   576   pogY   990
+pogX   192   pogY   540
+pogX   1088   pogY   450
+pogX   1216   pogY   540
+pogX   320   pogY   630
+pogX   832   pogY   180
+pogX   448   pogY   270
+pogX   1472   pogY   270
+pogX   960   pogY   450
+pogX   1216   pogY   990
+pogX   448   pogY   180
+pogX   960   pogY   270
+pogX   1344   pogY   990
+pogX   320   pogY   990
+pogX   320   pogY   450
+pogX   1472   pogY   720
+pogX   1216   pogY   990
+pogX   576   pogY   1080
+pogX   832   pogY   720
+pogX   1344   pogY   90
+pogX   2624   pogY   720
+pogX   64   pogY   1260
+pogX   1216   pogY   1080
+pogX   64   pogY   1170
+pogX   704   pogY   450
+pogX   2240   pogY   630
+pogX   576   pogY   270
+pogX   1600   pogY   360
+pogX   1088   pogY   810
+pogX   832   pogY   1260
+pogX   832   pogY   900
+pogX   1984   pogY   270
+pogX   320   pogY   90
+pogX   192   pogY   1170
+pogX   64   pogY   0
+pogX   320   pogY   810
+pogX   1984   pogY   90
+pogX   576   pogY   0
+pogX   1344   pogY   90
+pogX   448   pogY   630
+pogX   1856   pogY   180
+pogX   1728   pogY   900
+pogX   704   pogY   900
+pogX   320   pogY   90
+pogX   1472   pogY   630
+pogX   960   pogY   180
+pogX   2112   pogY   450
+pogX   1216   pogY   900
+pogX   1600   pogY   450
+pogX   832   pogY   1080
+pogX   2368   pogY   540
+pogX   704   pogY   180
+pogX   2496   pogY   90
+pogX   1088   pogY   990
+pogX   3136   pogY   90
+pogX   1984   pogY   900
+pogX   1216   pogY   180
+pogX   832   pogY   1080
+pogX   1216   pogY   630
+pogX   960   pogY   540
+pogX   2112   pogY   180
+pogX   1088   pogY   90
+pogX   320   pogY   1170
+pogX   704   pogY   450
+pogX   2112   pogY   720
+pogX   704   pogY   180
+pogX   1984   pogY   720
+pogX   960   pogY   1260
+pogX   1856   pogY   810
+pogX   960   pogY   990
+pogX   1472   pogY   540
+pogX   576   pogY   900
+pogX   1984   pogY   720
+pogX   448   pogY   990
+pogX   1472   pogY   810
+pogX   832   pogY   270
+pogX   2368   pogY   90
+pogX   1216   pogY   0
+pogX   1600   pogY   180
+pogX   576   pogY   1080
+pogX   448   pogY   990
+pogX   448   pogY   360
+pogX   1728   pogY   90
+pogX   704   pogY   0
+pogX   3008   pogY   180
+pogX   704   pogY   360
+pogX   4416   pogY   630
+pogX   320   pogY   630
+pogX   448   pogY   540
+pogX   2624   pogY   180
+pogX   3776   pogY   90
+pogX   3264   pogY   0
+pogX   3136   pogY   0
+pogX   3904   pogY   450
+pogX   2624   pogY   360
+pogX   3136   pogY   0
+pogX   3392   pogY   0
+pogX   4032   pogY   180
+pogX   3392   pogY   90
+pogX   3776   pogY   270
+pogX   3264   pogY   90
+pogX   2624   pogY   90
+pogX   320   pogY   810
+pogX   2112   pogY   450
+pogX   576   pogY   990
+pogX   832   pogY   990
+pogX   1472   pogY   900
+pogX   832   pogY   900
+pogX   832   pogY   450
+pogX   832   pogY   900
+pogX   64   pogY   900
+pogX   704   pogY   990
+pogX   1344   pogY   810
+pogX   64   pogY   990
+pogX   704   pogY   1170
+pogX   1088   pogY   180
+pogX   576   pogY   270
+pogX   1472   pogY   270
+pogX   64   pogY   450
+pogX   1088   pogY   900
+pogX   320   pogY   990
+pogX   832   pogY   1080
+pogX   64   pogY   0
+pogX   1344   pogY   450
+pogX   832   pogY   990
+pogX   576   pogY   990
+pogX   448   pogY   180
+pogX   1856   pogY   630
+pogX   64   pogY   0
+pogX   1600   pogY   180
+pogX   64   pogY   360
+pogX   576   pogY   360
+pogX   320   pogY   990
+pogX   960   pogY   90
+pogX   1472   pogY   180
+pogX   1728   pogY   270
+pogX   320   pogY   900
+pogX   1728   pogY   630
+pogX   704   pogY   360
+pogX   1728   pogY   810
+pogX   704   pogY   180
+pogX   1088   pogY   540
+pogX   704   pogY   1080
+pogX   192   pogY   1260
+pogX   832   pogY   450
+pogX   960   pogY   630
+pogX   448   pogY   270
+pogX   960   pogY   180
+pogX   1728   pogY   540
+pogX   1344   pogY   810
+pogX   1472   pogY   630
+pogX   1728   pogY   180
+pogX   320   pogY   810
+pogX   64   pogY   990
+pogX   448   pogY   1260
+pogX   704   pogY   630
+pogX   2112   pogY   360
+pogX   704   pogY   180
+pogX   1600   pogY   810
+pogX   704   pogY   90
+pogX   704   pogY   720
+pogX   1472   pogY   270
+pogX   64   pogY   1710
+pogX   704   pogY   810
+pogX   2240   pogY   450
+pogX   960   pogY   990
+pogX   960   pogY   630
+pogX   704   pogY   630
+pogX   576   pogY   180
+pogX   576   pogY   810
+pogX   832   pogY   900
+pogX   1344   pogY   270
+pogX   64   pogY   630
+pogX   448   pogY   990
+pogX   3136   pogY   450
+pogX   1728   pogY   720
+pogX   832   pogY   270
+pogX   704   pogY   990
+pogX   960   pogY   360
+pogX   1728   pogY   90
+pogX   832   pogY   720
+pogX   320   pogY   900
+pogX   320   pogY   810
+pogX   320   pogY   990
+pogX   576   pogY   90
+pogX   576   pogY   270
+pogX   1216   pogY   540
+pogX   64   pogY   1080
+pogX   320   pogY   90
+pogX   448   pogY   1080
+pogX   576   pogY   90
+pogX   832   pogY   180
+pogX   576   pogY   270
+pogX   1088   pogY   450
+pogX   832   pogY   900
+pogX   704   pogY   90
+pogX   1088   pogY   990
+pogX   576   pogY   900
+pogX   1600   pogY   450
+pogX   1088   pogY   810
+pogX   576   pogY   810
+pogX   2368   pogY   630
+pogX   192   pogY   1080
+pogX   448   pogY   810
+pogX   1088   pogY   990
+pogX   1856   pogY   90
+pogX   576   pogY   270
+pogX   960   pogY   90
+pogX   1728   pogY   900
+pogX   1088   pogY   360
+pogX   192   pogY   360
+pogX   448   pogY   1170
+pogX   576   pogY   0
+pogX   1600   pogY   810
+pogX   576   pogY   270
+pogX   1344   pogY   900
+pogX   704   pogY   450
+pogX   1728   pogY   810
+pogX   64   pogY   900
+pogX   192   pogY   900
+pogX   192   pogY   360
+pogX   192   pogY   900
+pogX   64   pogY   180
+pogX   1088   pogY   810
+pogX   192   pogY   450
+pogX   1728   pogY   540
+pogX   1216   pogY   180
+pogX   1216   pogY   180
+pogX   192   pogY   360
+pogX   832   pogY   360
+pogX   832   pogY   180
+pogX   1216   pogY   630
+pogX   448   pogY   270
+pogX   1088   pogY   90
+pogX   320   pogY   90
+pogX   2112   pogY   630
+pogX   2368   pogY   360
+pogX   1344   pogY   450
+pogX   1728   pogY   720
+pogX   2880   pogY   360
+pogX   320   pogY   450
+pogX   1600   pogY   0
+pogX   704   pogY   360
+pogX   2752   pogY   270
+pogX   64   pogY   270
+pogX   1600   pogY   360
+pogX   320   pogY   540
+pogX   2112   pogY   360
+pogX   1088   pogY   270
+pogX   704   pogY   630
+pogX   192   pogY   810
+pogX   1472   pogY   540
+pogX   832   pogY   180
+pogX   704   pogY   90
+pogX   832   pogY   360
+pogX   704   pogY   270
+pogX   1216   pogY   90
+pogX   704   pogY   270
+pogX   1600   pogY   630
+pogX   1984   pogY   270
+pogX   704   pogY   360
+pogX   448   pogY   540
+pogX   832   pogY   450
+pogX   1088   pogY   360
+pogX   64   pogY   90
+pogX   832   pogY   990
+pogX   320   pogY   630
+pogX   1984   pogY   0
+pogX   1088   pogY   270
+pogX   1088   pogY   810
+pogX   192   pogY   630
+pogX   448   pogY   810
+pogX   960   pogY   360
+pogX   1344   pogY   360
+pogX   1472   pogY   900
+pogX   960   pogY   990
+pogX   1216   pogY   630
+pogX   448   pogY   1080
+pogX   448   pogY   1080
+pogX   192   pogY   900
+pogX   64   pogY   450
+pogX   1472   pogY   90
+pogX   1216   pogY   900
+pogX   1728   pogY   0
+pogX   832   pogY   270
+pogX   1600   pogY   810
+pogX   960   pogY   1170
+pogX   2112   pogY   360
+pogX   448   pogY   1170
+pogX   1216   pogY   0
+pogX   2112   pogY   900
+pogX   960   pogY   450
+pogX   1088   pogY   1080
+pogX   192   pogY   990
+pogX   64   pogY   540
+pogX   1600   pogY   540
+pogX   832   pogY   900
+pogX   320   pogY   1080
+pogX   704   pogY   630
+pogX   448   pogY   1080
+pogX   832   pogY   1260
+pogX   1472   pogY   900
+pogX   448   pogY   180
+pogX   1856   pogY   0
+pogX   1088   pogY   180
+pogX   2112   pogY   90
+pogX   832   pogY   270
+pogX   1856   pogY   540
+pogX   960   pogY   0
+pogX   1856   pogY   90
+pogX   448   pogY   900
+pogX   1344   pogY   90
+pogX   832   pogY   90
+pogX   832   pogY   900
+pogX   704   pogY   180
+pogX   1472   pogY   90
+pogX   1088   pogY   810
+pogX   2752   pogY   1350
+pogX   832   pogY   450
+pogX   64   pogY   900
+pogX   704   pogY   1170
+pogX   320   pogY   360
+pogX   832   pogY   720
+pogX   1856   pogY   720
+pogX   2240   pogY   540
+pogX   1344   pogY   1800
+pogX   1088   pogY   270
+pogX   1344   pogY   810
+pogX   192   pogY   1170
+pogX   576   pogY   630
+pogX   576   pogY   990
+pogX   448   pogY   630
+pogX   960   pogY   990
+pogX   448   pogY   720
+pogX   448   pogY   180
+pogX   704   pogY   810
+pogX   1216   pogY   270
+pogX   1344   pogY   1080
+pogX   1344   pogY   540
+pogX   960   pogY   630
+pogX   320   pogY   900
+pogX   320   pogY   810
+pogX   576   pogY   1260
+pogX   832   pogY   990
+pogX   832   pogY   450
+pogX   64   pogY   540
+pogX   320   pogY   1080
+pogX   704   pogY   900
+pogX   2368   pogY   630
+pogX   448   pogY   450
+pogX   1216   pogY   630
+pogX   576   pogY   1350
+pogX   1856   pogY   720
+pogX   192   pogY   720
+pogX   2752   pogY   450
+pogX   64   pogY   270
+pogX   320   pogY   720
+pogX   64   pogY   270
+pogX   1088   pogY   360
+pogX   1856   pogY   900
+pogX   2368   pogY   270
+pogX   576   pogY   450
+pogX   320   pogY   1260
+pogX   2880   pogY   450
+pogX   192   pogY   630
+pogX   704   pogY   1080
+pogX   832   pogY   1170
+pogX   448   pogY   180
+pogX   192   pogY   180
+pogX   832   pogY   270
+pogX   576   pogY   180
+pogX   704   pogY   990
+pogX   192   pogY   630
+pogX   448   pogY   990
+pogX   832   pogY   540
+pogX   64   pogY   1080
+pogX   192   pogY   180
+pogX   1216   pogY   630
+pogX   448   pogY   180
+pogX   704   pogY   1080
+pogX   192   pogY   180
+pogX   2112   pogY   360
+pogX   704   pogY   810
+pogX   320   pogY   990
+pogX   448   pogY   270
+pogX   448   pogY   270
+pogX   704   pogY   990
+pogX   960   pogY   450
+pogX   960   pogY   540
+pogX   1472   pogY   810
+pogX   576   pogY   450
+pogX   448   pogY   360
+pogX   448   pogY   630
+pogX   1728   pogY   810
+pogX   1472   pogY   630
+pogX   448   pogY   180
+pogX   1600   pogY   540
+pogX   1344   pogY   0
+pogX   704   pogY   810
+pogX   704   pogY   1170
+pogX   960   pogY   900
+pogX   960   pogY   900
+pogX   1216   pogY   900
+pogX   1344   pogY   990
+pogX   1088   pogY   900
+pogX   1216   pogY   270
+pogX   704   pogY   990
+pogX   1856   pogY   0
+pogX   1344   pogY   180
+pogX   1600   pogY   360
+pogX   448   pogY   450
+pogX   1600   pogY   180
+pogX   320   pogY   810
+pogX   64   pogY   1080
+pogX   960   pogY   990
+pogX   448   pogY   900
+pogX   448   pogY   360
+pogX   1088   pogY   990
+pogX   320   pogY   0
+pogX   1088   pogY   450
+pogX   448   pogY   90
+pogX   1216   pogY   270
+pogX   1216   pogY   180
+pogX   960   pogY   810
+pogX   448   pogY   180
+pogX   704   pogY   630
+pogX   192   pogY   360
+pogX   192   pogY   810
+pogX   64   pogY   90
+pogX   1344   pogY   540
+pogX   704   pogY   180
+pogX   704   pogY   360
+pogX   1472   pogY   180
+pogX   960   pogY   450
+pogX   320   pogY   450
+pogX   3264   pogY   0
+pogX   1728   pogY   630
+pogX   192   pogY   450
+pogX   448   pogY   900
+pogX   64   pogY   90
+pogX   1088   pogY   810
+pogX   3904   pogY   90
+pogX   832   pogY   900
+pogX   2752   pogY   180
+pogX   832   pogY   360
+pogX   1984   pogY   90
+pogX   1344   pogY   1170
+pogX   2752   pogY   450
+pogX   320   pogY   450
+pogX   2112   pogY   180
+pogX   448   pogY   450
+pogX   1728   pogY   540
+pogX   320   pogY   270
+pogX   1216   pogY   720
+pogX   576   pogY   180
+pogX   704   pogY   900
+pogX   576   pogY   540
+pogX   2368   pogY   180
+pogX   704   pogY   360
+pogX   2496   pogY   450
+pogX   320   pogY   450
+pogX   1472   pogY   540
+pogX   64   pogY   270
+pogX   1600   pogY   630
+pogX   704   pogY   360
+pogX   448   pogY   900
+pogX   320   pogY   270
+pogX   1728   pogY   90
+pogX   1344   pogY   1080
+pogX   832   pogY   360
+pogX   576   pogY   810
+pogX   1472   pogY   180
+pogX   1088   pogY   270
+pogX   448   pogY   270
+pogX   960   pogY   900
+pogX   64   pogY   720
+pogX   320   pogY   1170
+pogX   3136   pogY   630
+pogX   320   pogY   990
+pogX   192   pogY   180
+pogX   832   pogY   540
+pogX   448   pogY   900
+pogX   832   pogY   900
+pogX   448   pogY   900
+pogX   64   pogY   0
+pogX   64   pogY   900
+pogX   576   pogY   810
+pogX   1344   pogY   720
+pogX   704   pogY   990
+pogX   320   pogY   360
+pogX   64   pogY   1260
+pogX   64   pogY   90
+pogX   1856   pogY   810
+pogX   192   pogY   1080
+pogX   448   pogY   1260
+pogX   832   pogY   990
+pogX   960   pogY   900
+pogX   1600   pogY   630
+pogX   1600   pogY   630
+pogX   192   pogY   360
+pogX   64   pogY   1260
+pogX   704   pogY   720
+pogX   704   pogY   270
+pogX   192   pogY   1170
+pogX   1344   pogY   1170
+pogX   832   pogY   810
+pogX   1344   pogY   360
+pogX   448   pogY   1170
+pogX   832   pogY   630
+pogX   64   pogY   1260
+pogX   832   pogY   990
+pogX   960   pogY   990
+pogX   576   pogY   990
+pogX   192   pogY   990
+pogX   960   pogY   630
+pogX   704   pogY   1080
+pogX   1600   pogY   900
+pogX   1728   pogY   180
+pogX   2624   pogY   0
+pogX   192   pogY   900
+pogX   1088   pogY   540
+pogX   1600   pogY   810
+pogX   64   pogY   1170
+pogX   960   pogY   360
+pogX   320   pogY   900
+pogX   1728   pogY   540
+pogX   2880   pogY   810
+pogX   1472   pogY   810
+pogX   64   pogY   540
+pogX   64   pogY   900
+pogX   320   pogY   1080
+pogX   1472   pogY   0
+pogX   1472   pogY   1800
+pogX   1344   pogY   900
+pogX   1472   pogY   540
+pogX   1216   pogY   360
+pogX   448   pogY   1260
+pogX   448   pogY   450
+pogX   448   pogY   900
+pogX   576   pogY   180
+pogX   192   pogY   1080
+pogX   1600   pogY   90
+pogX   320   pogY   270
+pogX   2112   pogY   90
+pogX   448   pogY   360
+pogX   1088   pogY   270
+pogX   1984   pogY   180
+pogX   704   pogY   540
+pogX   1216   pogY   720
+pogX   448   pogY   360
+pogX   1856   pogY   0
+pogX   320   pogY   360
+pogX   704   pogY   720
+pogX   64   pogY   540
+pogX   1728   pogY   90
+pogX   192   pogY   360
+pogX   832   pogY   900
+pogX   192   pogY   990
+pogX   960   pogY   450
+pogX   448   pogY   900
+pogX   448   pogY   540
+pogX   320   pogY   450
+pogX   576   pogY   900
+pogX   832   pogY   450
+pogX   704   pogY   270
+pogX   320   pogY   540
+pogX   704   pogY   630
+pogX   192   pogY   810
+pogX   448   pogY   810
+pogX   704   pogY   360
+pogX   320   pogY   630
+pogX   576   pogY   0
+pogX   192   pogY   270
+pogX   64   pogY   450
+pogX   448   pogY   1080
+pogX   320   pogY   720
+pogX   192   pogY   630
+pogX   1472   pogY   180
+pogX   320   pogY   450
+pogX   1728   pogY   630
+pogX   576   pogY   90
+pogX   1600   pogY   810
+pogX   64   pogY   1170
+pogX   1344   pogY   450
+pogX   1344   pogY   990
+pogX   1600   pogY   360
+pogX   832   pogY   810
+pogX   2752   pogY   360
+pogX   1088   pogY   1080
+pogX   448   pogY   900
+pogX   1344   pogY   1080
+pogX   576   pogY   360
+pogX   192   pogY   450
+pogX   2752   pogY   450
+pogX   1600   pogY   450
+pogX   192   pogY   810
+pogX   576   pogY   90
+pogX   192   pogY   990
+pogX   320   pogY   540
+pogX   832   pogY   900
+pogX   576   pogY   360
+pogX   448   pogY   540
+pogX   448   pogY   270
+pogX   576   pogY   540
+pogX   192   pogY   450
+pogX   64   pogY   990
+pogX   448   pogY   720
+pogX   320   pogY   1080
+pogX   192   pogY   450
+pogX   960   pogY   360
+pogX   576   pogY   270
+pogX   64   pogY   1080
+pogX   320   pogY   990
+pogX   320   pogY   360
+pogX   960   pogY   900
+pogX   192   pogY   450
+pogX   320   pogY   180
+pogX   192   pogY   1080
+pogX   704   pogY   450
+pogX   64   pogY   990
+pogX   448   pogY   630
+pogX   832   pogY   90
+pogX   64   pogY   90
+pogX   704   pogY   360
+pogX   64   pogY   810
+pogX   1472   pogY   0
+pogX   576   pogY   360
+pogX   320   pogY   630
+pogX   1216   pogY   450
+pogX   64   pogY   540
+pogX   960   pogY   990
+pogX   64   pogY   990
+pogX   64   pogY   450
+pogX   960   pogY   270
+pogX   448   pogY   900
+pogX   320   pogY   90
+pogX   64   pogY   450
+pogX   2112   pogY   180
+pogX   448   pogY   180
+pogX   3264   pogY   180
+pogX   704   pogY   90
+pogX   3904   pogY   270
+pogX   1344   pogY   90
+pogX   1472   pogY   180
+pogX   1216   pogY   0
+pogX   960   pogY   270
+pogX   1344   pogY   270
+pogX   2752   pogY   360
+pogX   3392   pogY   270
+pogX   576   pogY   180
+pogX   1088   pogY   180
+pogX   1088   pogY   180
+pogX   448   pogY   540
+pogX   832   pogY   270
+pogX   3776   pogY   180
+pogX   704   pogY   90
+pogX   1344   pogY   360
+pogX   64   pogY   360
+pogX   2752   pogY   360
+pogX   3008   pogY   360
+pogX   2752   pogY   270
+pogX   832   pogY   180
+pogX   1600   pogY   180
+pogX   960   pogY   540
+pogX   1216   pogY   0
+pogX   1728   pogY   270
+pogX   1856   pogY   0
+pogX   960   pogY   180
+pogX   832   pogY   180
+pogX   64   pogY   360
+pogX   448   pogY   270
+pogX   1344   pogY   180
+pogX   448   pogY   90
+pogX   1600   pogY   0
+pogX   576   pogY   90
+pogX   3648   pogY   270
+pogX   1344   pogY   270
+pogX   1472   pogY   0
+pogX   2112   pogY   180
+pogX   832   pogY   450
+pogX   192   pogY   720
+pogX   2112   pogY   0
+pogX   1728   pogY   900
+pogX   3776   pogY   0
+pogX   2240   pogY   630
+pogX   2624   pogY   630
+pogX   320   pogY   450
+pogX   2624   pogY   450
+pogX   576   pogY   180
+pogX   2496   pogY   630
+pogX   1088   pogY   90
+pogX   2368   pogY   540
+pogX   2624   pogY   630
+pogX   2112   pogY   540
+pogX   2496   pogY   720
+pogX   1344   pogY   900
+pogX   1856   pogY   540
+pogX   704   pogY   90
+pogX   832   pogY   900
+pogX   64   pogY   450
+pogX   960   pogY   450
+pogX   192   pogY   540
+pogX   1728   pogY   630
+pogX   1216   pogY   990
+pogX   1728   pogY   630
+pogX   1088   pogY   360
+pogX   2112   pogY   450
+pogX   320   pogY   0
+pogX   2368   pogY   630
+pogX   576   pogY   990
+pogX   2880   pogY   270
+pogX   576   pogY   900
+pogX   1472   pogY   540
+pogX   576   pogY   360
+pogX   2624   pogY   0
+pogX   1728   pogY   810
+pogX   192   pogY   1080
+pogX   448   pogY   1170
+pogX   2240   pogY   450
+pogX   192   pogY   90
+pogX   1728   pogY   270
+pogX   448   pogY   90
+pogX   576   pogY   1170
+pogX   192   pogY   0
+pogX   960   pogY   1080
+pogX   832   pogY   810
+pogX   576   pogY   900
+pogX   576   pogY   180
+pogX   576   pogY   990
+pogX   448   pogY   1170
+pogX   1216   pogY   810
+pogX   1344   pogY   1620
+pogX   64   pogY   180
+pogX   1472   pogY   1710
+pogX   192   pogY   180
+pogX   2752   pogY   1440
+pogX   448   pogY   1260
+pogX   192   pogY   720
+pogX   576   pogY   360
+pogX   192   pogY   1710
+pogX   320   pogY   630
+pogX   1216   pogY   1710
+pogX   192   pogY   90
+pogX   1600   pogY   1440
+pogX   192   pogY   90
+pogX   1344   pogY   1080
+pogX   64   pogY   90
+pogX   1344   pogY   180
+pogX   576   pogY   180
+pogX   2240   pogY   1620
+pogX   192   pogY   90
+pogX   1472   pogY   360
+pogX   64   pogY   810
+pogX   1856   pogY   1530
+pogX   960   pogY   1440
+pogX   1088   pogY   540
+pogX   64   pogY   900
+pogX   320   pogY   1170
+pogX   704   pogY   1170
+pogX   3776   pogY   990
+pogX   448   pogY   720
+pogX   1088   pogY   1080
+pogX   448   pogY   1080
+pogX   1088   pogY   360
+pogX   1600   pogY   900
+pogX   704   pogY   270
+pogX   1600   pogY   1530
+pogX   320   pogY   180
+pogX   960   pogY   810
+pogX   960   pogY   1170
+pogX   832   pogY   900
+pogX   2368   pogY   1530
+pogX   448   pogY   990
+pogX   192   pogY   810
+pogX   192   pogY   450
+pogX   2112   pogY   1530
+pogX   704   pogY   900
+pogX   3776   pogY   1080
+pogX   1984   pogY   360
+pogX   704   pogY   360
+pogX   2624   pogY   1350
+pogX   1088   pogY   720
+pogX   320   pogY   1080
+pogX   704   pogY   540
+pogX   3264   pogY   1170
+pogX   448   pogY   360
+pogX   320   pogY   990
+pogX   576   pogY   1170
+pogX   2880   pogY   1350
+pogX   576   pogY   1350
+pogX   2496   pogY   180
+pogX   448   pogY   270
+pogX   2880   pogY   1260
+pogX   1984   pogY   720
+pogX   64   pogY   180
+pogX   2496   pogY   180
+pogX   1984   pogY   270
+pogX   1088   pogY   450
+pogX   448   pogY   1080
+pogX   64   pogY   1350
+pogX   2752   pogY   450
+pogX   704   pogY   270
+pogX   192   pogY   1260
+pogX   3008   pogY   1620
+pogX   448   pogY   1170
+pogX   576   pogY   360
+pogX   1216   pogY   630
+pogX   832   pogY   990
+pogX   704   pogY   180
+pogX   4160   pogY   90
+pogX   1088   pogY   90
+pogX   704   pogY   540
+pogX   1472   pogY   360
+pogX   576   pogY   720
+pogX   448   pogY   450
+pogX   448   pogY   450
+pogX   448   pogY   540
+pogX   320   pogY   990
+pogX   320   pogY   450
+pogX   320   pogY   990
+pogX   448   pogY   1350
+pogX   320   pogY   810
+pogX   192   pogY   1260
+pogX   320   pogY   540
+pogX   64   pogY   1170
+pogX   448   pogY   450
+pogX   832   pogY   1170
+pogX   320   pogY   810
+pogX   832   pogY   630
+pogX   320   pogY   900
+pogX   64   pogY   990
+pogX   576   pogY   630
+pogX   1088   pogY   360
+pogX   192   pogY   540
+pogX   1984   pogY   90
+pogX   320   pogY   180
+pogX   576   pogY   1080
+pogX   576   pogY   630
+pogX   576   pogY   900
+pogX   1472   pogY   990
+pogX   3008   pogY   90
+pogX   704   pogY   90
+pogX   2880   pogY   180
+pogX   832   pogY   180
+pogX   2240   pogY   180
+pogX   1984   pogY   270
+pogX   576   pogY   90
+pogX   832   pogY   1800
+pogX   192   pogY   900
+pogX   1600   pogY   1620
+pogX   448   pogY   540
+pogX   1728   pogY   1710
+pogX   448   pogY   630
+pogX   1472   pogY   1710
+pogX   448   pogY   720
+pogX   2880   pogY   1530
+pogX   960   pogY   1980
+pogX   960   pogY   90
+pogX   2368   pogY   1530
+pogX   1856   pogY   1620
+pogX   832   pogY   540
+pogX   576   pogY   1710
+pogX   2112   pogY   1620
+pogX   64   pogY   450
+pogX   320   pogY   540
+pogX   448   pogY   360
+pogX   2624   pogY   1440
+pogX   448   pogY   360
+pogX   960   pogY   1530
+pogX   64   pogY   360
+pogX   3008   pogY   1080
+pogX   3520   pogY   1080
+pogX   320   pogY   1440
+pogX   192   pogY   900
+pogX   1344   pogY   1620
+pogX   192   pogY   900
+pogX   3264   pogY   540
+pogX   2496   pogY   1350
+pogX   832   pogY   1620
+pogX   576   pogY   180
+pogX   960   pogY   270
+pogX   960   pogY   270
+pogX   448   pogY   630
+pogX   448   pogY   630
+pogX   1088   pogY   360
+pogX   1088   pogY   360
+pogX   704   pogY   540
+pogX   576   pogY   360
+pogX   704   pogY   360
+pogX   960   pogY   270
+pogX   448   pogY   900
+pogX   320   pogY   1170
+pogX   576   pogY   540
+pogX   1472   pogY   720
+pogX   448   pogY   360
+pogX   2240   pogY   270
+pogX   704   pogY   900
+pogX   448   pogY   810
+pogX   320   pogY   90
+pogX   1984   pogY   540
+pogX   576   pogY   630
+pogX   960   pogY   630
+pogX   1088   pogY   990
+pogX   448   pogY   630
+pogX   192   pogY   270
+pogX   1728   pogY   540
+pogX   1088   pogY   900
+pogX   320   pogY   540
+pogX   192   pogY   1260
+pogX   320   pogY   900
+pogX   704   pogY   270
+pogX   1216   pogY   1080
+pogX   448   pogY   630
+pogX   448   pogY   900
+pogX   320   pogY   360
+pogX   448   pogY   360
+pogX   448   pogY   360
+pogX   832   pogY   450
+pogX   64   pogY   630
+pogX   1728   pogY   90
+pogX   64   pogY   1170
+pogX   1728   pogY   90
+pogX   1600   pogY   900
+pogX   576   pogY   450
+pogX   448   pogY   720
+pogX   1728   pogY   90
+pogX   1088   pogY   540
+pogX   448   pogY   1170
+pogX   576   pogY   1080
+pogX   1344   pogY   1620
+pogX   2624   pogY   1710
+pogX   960   pogY   1710
+pogX   960   pogY   720
+pogX   3264   pogY   1350
+pogX   3520   pogY   1350
+pogX   192   pogY   1260
+pogX   64   pogY   540
+pogX   1472   pogY   1710
+pogX   3648   pogY   1350
+pogX   64   pogY   540
+pogX   2368   pogY   1440
+pogX   2368   pogY   1440
+pogX   1728   pogY   1260
+pogX   832   pogY   1080
+pogX   1984   pogY   1980
+pogX   3776   pogY   1170
+pogX   3904   pogY   720
+pogX   1856   pogY   450
+pogX   832   pogY   630
+pogX   2624   pogY   1530
+pogX   192   pogY   180
+pogX   2112   pogY   180
+pogX   1728   pogY   900
+pogX   320   pogY   360
+pogX   192   pogY   450
+pogX   3392   pogY   180
+pogX   1216   pogY   180
+pogX   1216   pogY   90
+pogX   576   pogY   450
+pogX   1088   pogY   720
+pogX   576   pogY   450
+pogX   192   pogY   1080
+pogX   1600   pogY   0
+pogX   1728   pogY   270
+pogX   576   pogY   630
+pogX   448   pogY   990
+pogX   64   pogY   90
+pogX   448   pogY   450
+pogX   64   pogY   360
+pogX   576   pogY   990
+pogX   192   pogY   360
+pogX   64   pogY   990
+pogX   192   pogY   990
+pogX   704   pogY   360
+pogX   320   pogY   0
+pogX   1088   pogY   540
+pogX   704   pogY   630
+pogX   960   pogY   270
+pogX   448   pogY   180
+pogX   704   pogY   720
+pogX   1728   pogY   900
+pogX   960   pogY   900
+pogX   64   pogY   360
+pogX   832   pogY   450
+pogX   832   pogY   360
+pogX   704   pogY   900
+pogX   1088   pogY   720
+pogX   64   pogY   1080
+pogX   64   pogY   360
+pogX   192   pogY   450
+pogX   192   pogY   720
+pogX   192   pogY   450
+pogX   448   pogY   810
+pogX   192   pogY   180
+pogX   192   pogY   540
+pogX   448   pogY   540
+pogX   320   pogY   1080
+pogX   320   pogY   360
+pogX   320   pogY   360
+pogX   704   pogY   270
+pogX   2240   pogY   720
+pogX   192   pogY   90
+pogX   1344   pogY   990
+pogX   448   pogY   180
+pogX   2624   pogY   1260
+pogX   2880   pogY   540
+pogX   1472   pogY   1800
+pogX   2368   pogY   270
+pogX   2368   pogY   1710
+pogX   3008   pogY   180
+pogX   1600   pogY   450
+pogX   3008   pogY   450
+pogX   3904   pogY   270
+pogX   1600   pogY   90
+pogX   1984   pogY   540
+pogX   1728   pogY   540
+pogX   1856   pogY   720
+pogX   1216   pogY   900
+pogX   704   pogY   270
+pogX   1472   pogY   0
+pogX   448   pogY   540
+pogX   320   pogY   810
+pogX   192   pogY   90
+pogX   1088   pogY   360
+pogX   704   pogY   900
+pogX   1088   pogY   180
+pogX   64   pogY   90
+pogX   1856   pogY   630
+pogX   192   pogY   360
+pogX   320   pogY   540
+pogX   192   pogY   1170
+pogX   1344   pogY   810
+pogX   448   pogY   900
+pogX   1472   pogY   450
+pogX   320   pogY   90
+pogX   320   pogY   990
+pogX   64   pogY   0
+pogX   1088   pogY   0
+pogX   192   pogY   180
+pogX   192   pogY   720
+pogX   1728   pogY   990
+pogX   64   pogY   1080
+pogX   1984   pogY   1530
+pogX   1472   pogY   900
+pogX   4032   pogY   90
+pogX   3520   pogY   1080
+pogX   2496   pogY   450
+pogX   3008   pogY   90
+pogX   1088   pogY   540
+pogX   832   pogY   270
+pogX   1856   pogY   360
+pogX   192   pogY   450
+pogX   3264   pogY   1170
+pogX   1088   pogY   270
+pogX   2112   pogY   1350
+pogX   1472   pogY   1620
+pogX   832   pogY   450
+pogX   2496   pogY   1530
+pogX   320   pogY   990
+pogX   3008   pogY   1530
+pogX   320   pogY   360
+pogX   3520   pogY   1260
+pogX   832   pogY   180
+pogX   704   pogY   540
+pogX   3648   pogY   540
+pogX   576   pogY   450
+pogX   576   pogY   180
+pogX   704   pogY   180
+pogX   1088   pogY   0
+pogX   960   pogY   450
+pogX   64   pogY   90
+pogX   192   pogY   900
+pogX   448   pogY   360
+pogX   192   pogY   1080
+pogX   320   pogY   270
+pogX   960   pogY   450
+pogX   704   pogY   360
+pogX   704   pogY   540
+pogX   448   pogY   450
+pogX   448   pogY   1080
+pogX   448   pogY   720
+pogX   704   pogY   450
+pogX   64   pogY   450
+pogX   448   pogY   990
+pogX   1088   pogY   1080
+pogX   64   pogY   1170
+pogX   64   pogY   990
+pogX   1216   pogY   360
+pogX   1728   pogY   1080
+pogX   576   pogY   270
+pogX   320   pogY   360
+pogX   2240   pogY   450
+pogX   192   pogY   180
+pogX   1728   pogY   360
+pogX   1088   pogY   1260
+pogX   2752   pogY   540
+pogX   1728   pogY   990
+pogX   2496   pogY   450
+pogX   192   pogY   540
+pogX   2240   pogY   450
+pogX   1600   pogY   990
+pogX   2496   pogY   630
+pogX   1728   pogY   630
+pogX   1984   pogY   1800
+pogX   1088   pogY   810
+pogX   2624   pogY   720
+pogX   1472   pogY   900
+pogX   1728   pogY   540
+pogX   1472   pogY   900
+pogX   2624   pogY   540
+pogX   832   pogY   1260
+pogX   2496   pogY   90
+pogX   1600   pogY   810
+pogX   2368   pogY   720
+pogX   1088   pogY   1170
+pogX   2240   pogY   810
+pogX   1344   pogY   810
+pogX   1728   pogY   450
+pogX   448   pogY   450
+pogX   832   pogY   1080
+pogX   704   pogY   1170
+pogX   1216   pogY   450
+pogX   832   pogY   180
+pogX   1216   pogY   270
+pogX   1344   pogY   180
+pogX   1216   pogY   90
+pogX   1984   pogY   360
+pogX   3648   pogY   90
+pogX   1344   pogY   360
+pogX   3904   pogY   90
+pogX   2496   pogY   270
+pogX   1984   pogY   90
+pogX   2624   pogY   180
+pogX   1984   pogY   450
+pogX   1216   pogY   1080
+pogX   576   pogY   1080
+pogX   2240   pogY   90
+pogX   960   pogY   810
+pogX   448   pogY   360
+pogX   192   pogY   1080
+pogX   1344   pogY   540
+pogX   704   pogY   90
+pogX   704   pogY   270
+pogX   64   pogY   450
+pogX   320   pogY   1080
+pogX   64   pogY   1260
+pogX   1088   pogY   1080
+pogX   448   pogY   1080
+pogX   192   pogY   990
+pogX   704   pogY   270
+pogX   1472   pogY   720
+pogX   64   pogY   360
+pogX   832   pogY   270
+pogX   576   pogY   270
+pogX   704   pogY   540
+pogX   320   pogY   360
+pogX   1472   pogY   720
+pogX   1728   pogY   900
+pogX   320   pogY   990
+pogX   192   pogY   540
+pogX   320   pogY   1080
+pogX   448   pogY   90
+pogX   1088   pogY   810
+pogX   64   pogY   360
+pogX   576   pogY   990
+pogX   1472   pogY   1080
+pogX   576   pogY   1080
+pogX   64   pogY   540
+pogX   960   pogY   270
+pogX   704   pogY   540
+pogX   448   pogY   990
+pogX   1088   pogY   900
+pogX   1984   pogY   90
+pogX   960   pogY   90
+pogX   576   pogY   450
+pogX   192   pogY   270
+pogX   1344   pogY   540
+pogX   1472   pogY   90
+pogX   1216   pogY   90
+pogX   960   pogY   810
+pogX   64   pogY   900
+pogX   2240   pogY   810
+pogX   1344   pogY   720
+pogX   576   pogY   270
+pogX   1728   pogY   630
+pogX   320   pogY   540
+pogX   960   pogY   1080
+pogX   64   pogY   900
+pogX   1728   pogY   900
+pogX   64   pogY   180
+pogX   320   pogY   990
+pogX   832   pogY   1260
+pogX   2624   pogY   0
+pogX   320   pogY   450
+pogX   64   pogY   810
+pogX   320   pogY   720
+pogX   320   pogY   810
+pogX   1088   pogY   90
+pogX   832   pogY   450
+pogX   1088   pogY   810
+pogX   448   pogY   990
+pogX   192   pogY   270
+pogX   448   pogY   1260
+pogX   192   pogY   630
+pogX   320   pogY   1170
+pogX   704   pogY   360
+pogX   1728   pogY   900
+pogX   576   pogY   270
+pogX   64   pogY   1080
+pogX   704   pogY   720
+pogX   192   pogY   1170
+pogX   448   pogY   360
+pogX   576   pogY   540
+pogX   1216   pogY   990
+pogX   320   pogY   1170
+pogX   448   pogY   630
+pogX   832   pogY   810
+pogX   1472   pogY   180
+pogX   1984   pogY   0
+pogX   1728   pogY   720
+pogX   1344   pogY   1080
+pogX   1088   pogY   990
+pogX   960   pogY   540
+pogX   1600   pogY   450
+pogX   192   pogY   450
+pogX   192   pogY   630
+pogX   448   pogY   540
+pogX   2112   pogY   630
+pogX   704   pogY   900
+pogX   2240   pogY   450
+pogX   576   pogY   270
+pogX   704   pogY   360
+pogX   64   pogY   0
+pogX   1984   pogY   720
+pogX   320   pogY   360
+pogX   1344   pogY   0
+pogX   960   pogY   990
+pogX   832   pogY   360
+pogX   576   pogY   90
+pogX   2112   pogY   360
+pogX   1216   pogY   1080
+pogX   1856   pogY   720
+pogX   64   pogY   1080
+pogX   1600   pogY   720
+pogX   704   pogY   450
+pogX   960   pogY   810
+pogX   64   pogY   0
+pogX   1216   pogY   90
+pogX   960   pogY   180
+pogX   1472   pogY   90
+pogX   448   pogY   450
+pogX   1728   pogY   180
+pogX   704   pogY   180
+pogX   1472   pogY   90
+pogX   448   pogY   540
+pogX   4032   pogY   90
+pogX   3520   pogY   180
+pogX   576   pogY   180
+pogX   704   pogY   360
+pogX   320   pogY   810
+pogX   1728   pogY   630
+pogX   704   pogY   1260
+pogX   1088   pogY   1080
+pogX   320   pogY   360
+pogX   2368   pogY   270
+pogX   1216   pogY   90
+pogX   3136   pogY   180
+pogX   576   pogY   990
+pogX   576   pogY   900
+pogX   320   pogY   450
+pogX   960   pogY   1080
+pogX   704   pogY   450
+pogX   64   pogY   360
+pogX   64   pogY   450
+pogX   448   pogY   450
+pogX   704   pogY   270
+pogX   448   pogY   270
+pogX   64   pogY   1080
+pogX   704   pogY   990
+pogX   320   pogY   360
+pogX   2240   pogY   630
+pogX   576   pogY   1170
+pogX   1600   pogY   180
+pogX   320   pogY   90
+pogX   1856   pogY   90
+pogX   576   pogY   0
+pogX   192   pogY   900
+pogX   448   pogY   360
+pogX   2496   pogY   630
+pogX   576   pogY   270
+pogX   2240   pogY   630
+pogX   1344   pogY   990
+pogX   2368   pogY   540
+pogX   320   pogY   990
+pogX   1728   pogY   540
+pogX   192   pogY   180
+pogX   960   pogY   720
+pogX   320   pogY   360
+pogX   2496   pogY   630
+pogX   448   pogY   1080
+pogX   2112   pogY   180
+pogX   1472   pogY   990
+pogX   2624   pogY   450
+pogX   576   pogY   1170
+pogX   1216   pogY   810
+pogX   448   pogY   1080
+pogX   1216   pogY   90
+pogX   192   pogY   360
+pogX   1472   pogY   0
+pogX   704   pogY   90
+pogX   1216   pogY   810
+pogX   832   pogY   360
+pogX   320   pogY   900
+pogX   448   pogY   450
+pogX   2368   pogY   180
+pogX   960   pogY   90
+pogX   1088   pogY   720
+pogX   192   pogY   360
+pogX   1600   pogY   810
+pogX   1600   pogY   630
+pogX   64   pogY   1080
+pogX   1088   pogY   630
+pogX   960   pogY   540
+pogX   576   pogY   180
+pogX   192   pogY   360
+pogX   320   pogY   1260
+pogX   320   pogY   990
+pogX   576   pogY   1080
+pogX   1088   pogY   360
+pogX   320   pogY   990
+pogX   704   pogY   990
+pogX   576   pogY   360
+pogX   960   pogY   180
+pogX   192   pogY   540
+pogX   1472   pogY   360
+pogX   704   pogY   540
+pogX   192   pogY   1080
+pogX   64   pogY   1260
+pogX   960   pogY   540
+pogX   448   pogY   900
+pogX   960   pogY   180
+pogX   320   pogY   360
+pogX   1984   pogY   90
+pogX   2240   pogY   540
+pogX   1344   pogY   90
+pogX   960   pogY   360
+pogX   448   pogY   450
+pogX   192   pogY   1080
+pogX   1088   pogY   450
+pogX   448   pogY   630
+pogX   320   pogY   450
+pogX   320   pogY   450
+pogX   320   pogY   360
+pogX   1728   pogY   360
+pogX   1600   pogY   900
+pogX   3136   pogY   0
+pogX   1344   pogY   900
+pogX   1344   pogY   720
+pogX   1216   pogY   810
+pogX   3008   pogY   270
+pogX   2112   pogY   90
+pogX   832   pogY   360
+pogX   2240   pogY   720
+pogX   1344   pogY   990
+pogX   2240   pogY   540
+pogX   320   pogY   270
+pogX   3008   pogY   450
+pogX   704   pogY   180
+pogX   3008   pogY   270
+pogX   960   pogY   360
+pogX   2496   pogY   270
+pogX   192   pogY   360
+pogX   2368   pogY   360
+pogX   1344   pogY   720
+pogX   2240   pogY   630
+pogX   576   pogY   90
+pogX   1472   pogY   540
+pogX   832   pogY   270
+pogX   2624   pogY   450
+pogX   704   pogY   1170
+pogX   2880   pogY   270
+pogX   1216   pogY   1080
+pogX   1088   pogY   990
+pogX   64   pogY   1260
+pogX   2112   pogY   450
+pogX   320   pogY   990
+pogX   1856   pogY   810
+pogX   64   pogY   1170
+pogX   320   pogY   720
+pogX   448   pogY   90
+pogX   448   pogY   450
+pogX   448   pogY   270
+pogX   1472   pogY   270
+pogX   1344   pogY   990
+pogX   832   pogY   900
+pogX   3776   pogY   360
+pogX   1216   pogY   720
+pogX   2112   pogY   720
+pogX   576   pogY   450
+pogX   448   pogY   720
+pogX   576   pogY   810
+pogX   1600   pogY   630
+pogX   192   pogY   270
+pogX   448   pogY   720
+pogX   1472   pogY   720
+pogX   960   pogY   540
+pogX   64   pogY   900
+pogX   1216   pogY   630
+pogX   1216   pogY   720
+pogX   576   pogY   450
+pogX   1600   pogY   630
+pogX   576   pogY   990
+pogX   64   pogY   540
+pogX   192   pogY   990
+pogX   1088   pogY   900
+pogX   192   pogY   990
+pogX   576   pogY   90
+pogX   1088   pogY   0
+pogX   3136   pogY   90
+pogX   3520   pogY   90
+pogX   576   pogY   360
+pogX   320   pogY   450
+pogX   1344   pogY   0
+pogX   576   pogY   900
+pogX   576   pogY   1080
+pogX   192   pogY   450
+pogX   448   pogY   720
+pogX   448   pogY   180
+pogX   1728   pogY   450
+pogX   64   pogY   180
+pogX   704   pogY   720
+pogX   64   pogY   630
+pogX   832   pogY   270
+pogX   320   pogY   0
+pogX   1984   pogY   90
+pogX   448   pogY   270
+pogX   2112   pogY   270
+pogX   1216   pogY   180
+pogX   832   pogY   90
+pogX   960   pogY   720
+pogX   192   pogY   270
+pogX   192   pogY   90
+pogX   192   pogY   900
+pogX   1088   pogY   900
+pogX   960   pogY   720
+pogX   320   pogY   990
+pogX   1088   pogY   990
+pogX   704   pogY   810
+pogX   448   pogY   360
+pogX   832   pogY   360
+pogX   64   pogY   270
+pogX   1088   pogY   810
+pogX   448   pogY   810
+pogX   2368   pogY   180
+pogX   64   pogY   990
+pogX   1472   pogY   630
+pogX   1472   pogY   720
+pogX   192   pogY   90
+pogX   832   pogY   630
+pogX   320   pogY   720
+pogX   1600   pogY   0
+pogX   448   pogY   360
+pogX   576   pogY   1260
+pogX   448   pogY   1260
+pogX   832   pogY   1170
+pogX   448   pogY   1260
+pogX   1856   pogY   720
+pogX   1472   pogY   1080
+pogX   1600   pogY   450
+pogX   64   pogY   1260
+pogX   320   pogY   1170
+pogX   192   pogY   360
+pogX   1600   pogY   90
+pogX   448   pogY   540
+pogX   3776   pogY   90
+pogX   1344   pogY   360
+pogX   2240   pogY   630
+pogX   832   pogY   720
+pogX   960   pogY   90
+pogX   1600   pogY   810
+pogX   704   pogY   810
+pogX   1984   pogY   180
+pogX   704   pogY   180
+pogX   2624   pogY   180
+pogX   320   pogY   630
+pogX   192   pogY   0
+pogX   192   pogY   1170
+pogX   832   pogY   90
+pogX   832   pogY   90
+pogX   704   pogY   1080
+pogX   832   pogY   810
+pogX   64   pogY   720
+pogX   1088   pogY   810
+pogX   448   pogY   900
+pogX   448   pogY   810
+pogX   704   pogY   1350
+pogX   1088   pogY   1440
+pogX   448   pogY   540
+pogX   1600   pogY   900

@@ -1,0 +1,28 @@
+    HashMap<String,Integer> hash=new HashMap<>();
+    private void saveImage(Mat mROI, int method) {
+        
+        Imgcodecs.imencode(".bmp", mROI, mem);
+        try {
+            BufferedImage im=ImageIO.read(new ByteArrayInputStream(mem.toArray()));
+            String hashString=new ImagePHash().getHash(im);
+            System.out.println("Hash String :"+hashString);
+            hash.put(hashString,method);
+        } catch (Exception ex) {
+           
+        }
+    }
+
+    private int compareImage(Mat mROI) {
+        Imgcodecs.imencode(".bmp", mROI, mem);
+        try {
+            BufferedImage im=ImageIO.read(new ByteArrayInputStream(mem.toArray()));
+           String newHash=new ImagePHash().getHash(im);
+            System.out.println("new hash: "+newHash );
+           return (int)hash.get(newHash);
+        } catch (Exception ex) {
+           
+        }
+        return -1;
+    }
+
+}

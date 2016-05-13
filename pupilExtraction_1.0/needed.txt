@@ -1,0 +1,37 @@
+if(COIx<=center.x && COIy<=center.y){
+            System.out.println("cell 1");
+           try {
+               robot = new Robot();
+               robot.mouseMove((int)d.width/2-400, (int)d.height/2-200);
+                } catch (AWTException ex) {
+                    Logger.getLogger(EyeGaze.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+            else if(COIx<=center.x && COIy>center.y){
+                System.out.println("cell 3");
+                 
+           try {
+               robot = new Robot();
+               robot.mouseMove((int)d.width/2+400, (int)d.height/2-200);
+                } catch (AWTException ex) {
+                    Logger.getLogger(EyeGaze.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+            else if(COIx>center.x && COIy<=center.y){
+                System.out.println("cell 2");
+                 try {
+               robot = new Robot();
+               robot.mouseMove((int)d.width/2-400, (int)d.height/2+200);
+                } catch (AWTException ex) {
+                    Logger.getLogger(EyeGaze.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+              else if(COIx>center.x && COIy>center.y){
+                   try {
+               robot = new Robot();
+               robot.mouseMove((int)d.width/2+400, (int)d.height/2+200);
+                } catch (AWTException ex) {
+                    Logger.getLogger(EyeGaze.class.getName()).log(Level.SEVERE, null, ex);
+                }
+                System.out.println("cell 4");
+            }
